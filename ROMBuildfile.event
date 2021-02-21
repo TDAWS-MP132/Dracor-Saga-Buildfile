@@ -27,7 +27,7 @@
     #include "Events/WorldMapEvents.event"
 
     //Maps
-    #include "Maps/MasterMapInstaller.event"
+    #include "Maps/Master Map Installer.event"
     #endif // USE_TEST_MAP
 	
     MESSAGE Used free space ends at currentOffset

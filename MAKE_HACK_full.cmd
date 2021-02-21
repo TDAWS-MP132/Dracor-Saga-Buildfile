@@ -51,7 +51,7 @@ if /I not [%1]==[quick] (
   echo Processing maps
 
   cd "%base_dir%Maps"
-  echo: | ("%tmx2ea%" -s -O "MasterMapInstaller.event")
+  echo: | ("%tmx2ea%" -s )
 
 )
 
