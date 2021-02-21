@@ -1,0 +1,11 @@
+//Adds new Armor+Flier and Horse+Flier Weapon Effectivness Types
+
+ALIGN 4
+FlierAndArmor:
+SetWeaponEffectiveness(ArmorType,6)
+SetWeaponEffectiveness(FlierType,6)
+WORD 0
+FlierAndHorse:
+SetWeaponEffectiveness(HorseType,6)
+SetWeaponEffectiveness(FlierType,6)
+WORD 0

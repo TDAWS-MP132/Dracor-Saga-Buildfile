@@ -1,0 +1,17 @@
+//Nonstandard Hack Installer
+
+//Sets Vuln Recovery to 15 instead of 10
+#include "15HpVulnerary.event" 
+
+//Adds new Armor+Flier and Horse+Flier Weapon Effectivness Types
+#include "BonusEffectiveness.event"
+
+//Enables Lazberian Turn Flow
+//#include "LazberianTurnFlow/LazberianTurnFlow.event"
+//#include "LazberianTurnFlow/LTF-Internals.event"
+
+//Enables Lazberian Battle Flow
+//#include "LazberianBattleFlow/LazberianBattleFlow.event"
+
+//Enables 7S MMB
+#include "ModularMinimugBox-master/MMB Installer 7Siblings.event"
