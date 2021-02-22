@@ -143,7 +143,7 @@
 // #define BIORHYTHM
 
 //If uncommented, Reaver Split will be implemented.
-//Makes weapon ability 2 reaver bit just triangle reversal and weapon ability 3 bit 0x80 triple triangle effect.
+//Makes weapon ability 2 reaver bit just triangle reversal and weapon ability 3 bit 0x80 double triangle effect.
 #define REAVER_SPLIT
 
 //If uncommented, Cannot Crit will be implemented.

@@ -1,5 +1,7 @@
 #ifdef _FE8_
-    #include "EAstdlib.event"
+   
+	#define ItemTable NewItemTable
+	#include "EAstdlib.event"
 	
 	//Definitions 
 	#include "EngineHacks/SkillSystem/skill_definitions.event"

@@ -1,31 +1,33 @@
-// #define FieryFang 0xB1
+//#define FieryFang 0xB1
 
-// #define MasterKey 0x79
-// #define SpiritDust 0xBC
+#define MasterKey 0x79
+#define SpiritDust 0xBC
 
 #define SkillScroll 0xBD
 // #define RingItem 0xBE
 // #define CrusaderScroll 0xBF
 
-// #define SapphireLance 0xC0
-// #define EmeraldAxe 0xC1
-// #define HuntingBow 0xC2
-// #define ShiningBow 0xC3
-// #define Thoron 0xC4
-// #define Bolganone 0xC5
-// #define Ruin 0xC6
-// #define Miasma 0xC7
-// #define Jormungandr 0xC8
-// #define Greatsword 0xC9
-// #define Greatlance 0xCA
-// #define Greataxe 0xCB
-// #define Greatbow 0xCC
-// #define NobleRapier 0xCD
-// #define LevinSword 0xCE
-// #define RazorAxe 0xCF
-// #define Flamberge 0xD0
-// #define FlameLance 0xD1
-// #define ShortAxe 0xD2
+#define Hurlbat HandAxe
+#define RubySword 0x8
+#define SapphireLance 0x18
+#define EmeraldAxe 0x22
+#define Pilum 0xC3
+#define EssereAureo 0xC4
+#define ArgentoPerso 0xC5
+#define IronPoleaxe 0xC6
+#define SteelPoleaxe 0xC7
+#define SilverPoleaxe 0xC8
+#define TossAxe 0xC9
+#define IronGreatbow 0xCA
+#define SteelGreatbow 0xCB
+#define SilverGreatbow 0xCC
+#define CompoundBow 0xCD
+#define HuntingBow 0xCE
+#define ArmorPiercer 0xCF
+#define IronSpear 0x0f
+#define SteelSpear 0x10
+#define SilverSpear 0x11
+
 // #define BoltAxe 0xD3
 // #define Resire 0xD4
 // #define FalconBlade 0xD5
