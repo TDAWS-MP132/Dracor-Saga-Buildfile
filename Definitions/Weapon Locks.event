@@ -1,0 +1,5 @@
+#define MilanorLock 0xD
+#define SandersLock 0xE
+#define ArleLock 0xF
+#define DevvyLock 0x10
+#define DonnalenLock 0x11

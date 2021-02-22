@@ -1,6 +1,10 @@
 #ifdef _FE8_
     #include "EAstdlib.event"
-    #include "CustomDefinitions.event"
+	
+	//Definitions 
+	#include "EngineHacks/SkillSystem/skill_definitions.event"
+	#include "Definitions/Master Definition Installer.event"
+
 //PROTECT $25224
     ORG FreeSpace
 
@@ -21,14 +25,11 @@
 	//Nonstandard Hacks
 	#include "NonstandardHacks/NonstandardHackInstaller.event"
 
-	#ifdef USE_TEST_MAP
     //Events
-    #include "Events/Release_map.event"
     #include "Events/WorldMapEvents.event"
 
     //Maps
     #include "Maps/Master Map Installer.event"
-    #endif // USE_TEST_MAP
 	
     MESSAGE Used free space ends at currentOffset
 #else
