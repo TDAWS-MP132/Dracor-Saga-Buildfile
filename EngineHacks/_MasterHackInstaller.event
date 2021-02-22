@@ -242,3 +242,5 @@ POP
     #include "Necessary/SuspendDebuffs/SuspendExpansion.event"
 
   #endif // USE_SAVE_EXPANSION
+
+  #include "DracorSagaHacks/DracorSagaHackInstaller.event"
