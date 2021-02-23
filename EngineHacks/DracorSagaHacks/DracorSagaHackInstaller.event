@@ -16,8 +16,5 @@
 //Enables Lazberian Battle Flow
 //#include "LazberianBattleFlow/LazberianBattleFlow.event"
 
-//Sets Weather to Aesthetic Only
-#include "WeatherNull/WeatherNullInstaller.event"
-
 //Enables Thracia Trade
 #include "ThraciaTradeInstaller.event"
