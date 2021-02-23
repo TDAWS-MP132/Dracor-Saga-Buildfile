@@ -1,84 +1,84 @@
 INLINE MagClassTable,Base Magic,Magic Growth,Magic Cap,Magic Promotion Bonus
-None,0,0,20,0
-Ephraim Lord,1,10,20,0
-Eirika Lord,1,25,20,0
-Ephraim Master Lord,2,10,24,1
-Eirika Master Lord,2,20,25,2
-Cavalier,0,0,20,0
-Cavalier (F),0,0,20,0
-Paladin,2,10,24,2
-Paladin (F),2,10,24,2
-Armour Knight,0,0,20,0
-Armour Knight (F),0,0,20,0
-General,0,0,22,0
-General (F),0,0,22,0
-Thief,1,5,20,0
-Manakete,0,0,20,0
-Mercenary,0,0,20,0
-Mercenary (F),0,0,20,0
-Hero,0,0,23,0
-Hero (F),0,0,23,0
-Myrmidon,1,15,20,0
-Myrmidon (F),1,15,20,0
-Swordmaster,2,10,23,1
-Swordmaster (F),2,10,23,1
-Assassin,1,0,22,0
-Assassin (F),1,0,22,0
-Archer,0,0,20,0
-Archer (F),0,0,20,0
-Sniper,1,10,24,1
-Sniper (F),1,10,24,1
-Ranger,0,0,22,0
-Ranger (F),0,0,22,0
-Wyvern Rider,0,0,20,0
-Wyvern Rider (F),0,0,20,0
-Wyvern Lord,0,0,21,0
-Wyvern Lord (F),0,0,21,0
-Wyvern Knight,1,5,24,1
-Wyvern Knight (F),1,5,24,1
-Mage,1,55,20,0
-Mage (F),1,55,20,0
-Sage,5,45,28,1
-Sage (F),4,45,30,1
-Mage Knight,4,40,24,2
-Mage Knight (F),3,40,25,2
-Bishop,4,35,25,2
-Bishop (F),4,35,25,1
-Shaman,2,50,20,0
-Shaman (F),3,45,20,0
-Druid,6,55,29,0
-Druid (F),7,55,29,0
-Summoner,5,50,27,0
-Summoner (F),5,50,27,0
-Rogue,3,25,26,3
-Gorgon Egg,0,0,30,0
-Great Knight,0,0,21,0
-Great Knight (F),0,0,21,0
-Recruit (2),0,0,20,0
-Journeyman (3),0,0,22,0
-Pupil (3),5,55,29,2
-Recruit (3),0,0,23,0
-Manakete,2,0,20,0
-Manakete (F),2,0,20,0
-Journeyman (1),0,0,20,0
-Pupil (1),1,55,20,0
-Fighter,0,0,20,0
-Warrior,0,0,21,0
-Brigand,0,0,20,0
-Pirate,0,0,20,0
-Berserker,0,0,21,0
-Monk,1,30,20,0
-Priest,1,30,20,0
-Bard,1,45,20,0
+None,0,0,0,0
+Prince,3,0,10,0
+Huntress,0,0,10,0
+Lord Knight,6,0,20,3
+Lady Knight,0,0,10,0
+Lance Cav,0,0,10,0
+Duke Knight,0,0,10,0
+Sword Cav,0,0,10,0
+Forrest Knight,0,0,10,0
+Axe Cav,0,0,10,0
+Rook Knight,0,0,10,0
+Armor Knight,0,0,10,0
+General,0,0,10,0
+Soldier,0,0,10,0
+Halberdier,0,0,10,0
+Deserter,0,0,10,0
+Skirmisher,0,0,10,0
+Mercenary,0,0,10,0
+Champion,0,0,10,0
+Myrmidon,2,10,10,0
+Dread Fighter,4,20,20,2
+Thief,0,0,10,0
+Rogue,0,0,10,0
+Fighter,0,0,10,0
+Warrior,0,0,10,0
+Brigand,0,0,10,0
+Pirate,0,0,10,0
+Corsair,0,0,10,0
+Archer,0,0,10,0
+Sniper,0,0,10,0
+Outlaw,0,0,10,0
+Highwayman,0,0,10,0
+Mage,4,35,20,0
+Sage,8,45,26,3
+Shaman,6,50,20,0
+Sorcerer,10,60,30,4
+Monk,2,30,20,0
+Saint,6,40,24,2
+Cleric,4,40,20,0
+Priest,4,40,20,0
+Trobadour,8,50,26,3
+Troubaritz,8,50,26,3
+Mage Knight,8,35,24,0
+Sword Peg,0,0,10,0
+Sword Seraph,0,0,10,0
+Lance Peg,0,0,10,0
+Lance Seraph,0,0,10,0
+Lance Wyvern,0,0,10,0
+Lance Dragoon,0,0,10,0
+Axe Wyvern,0,0,10,0
+Axe Dragoon,0,0,10,0
+Hunting Dog,0,0,10,0
+War Dog,0,0,10,0
+Mercenary (F),0,0,10,0
+Champion (F),0,0,10,0
+Myrmidon (F),2,10,10,0
+Dread Fighter (F),4,20,20,2
+Fighter (F),0,0,10,0
+Warrior (F),0,0,10,0
+Archer (F),0,0,10,0
+Sniper (F),0,0,10,0
+Thief (F),0,0,10,0
+Rogue (F),0,0,10,0
+Outlaw (F),0,0,10,0
+Highwayman (F),0,0,10,0
+Mage (F),4,35,20,0
+Sage (F),8,45,26,3
+Shaman (F),6,50,20,0
+Druid (F),10,60,30,4
+Empty,0,0,0,0
+Bard,0,0,20,0
 Recruit (1),0,0,20,0
-Pegasus Knight,1,10,20,0
-Falcon Knight,3,30,23,3
-Cleric,1,30,20,0
-Troubadour,1,25,20,0
-Valkyrie,4,35,25,2
-Dancer,1,45,20,0
+Pegasus Knight,0,10,20,0
+Falcon Knight,0,30,23,3
+Cleric,0,30,20,0
+Troubadour,0,25,20,0
+Valkyrie,0,35,25,2
+Dancer,0,45,20,0
 Soldier,0,0,20,0
-Necromancer,9,55,30,0
+Necromancer,0,55,30,0
 Fleet,0,0,20,0
 Phantom,0,0,20,0
 Revenant,0,0,20,0
@@ -94,14 +94,14 @@ Mauthe Doog,0,0,20,0
 Gwyllgi,0,0,23,0
 Tarvos,0,0,20,0
 Maelduin,0,0,21,0
-Mogall,2,45,20,0
-Arch Mogall,6,55,29,0
-Gorgon,8,60,29,0
+Mogall,0,45,20,0
+Arch Mogall,0,55,29,0
+Gorgon,0,60,29,0
 Gorgon Egg,0,0,30,0
 Gargoyle,0,0,20,0
 Deathgoyle,0,0,22,0
-Dracozombie,1,30,50,0
-Demon King,23,40,50,0
+Dracozombie,0,30,50,0
+Demon King,0,40,50,0
 Archer on Ballista,0,0,20,0
 Archer on Iron Ballista,0,0,20,0
 Archer on Killer Ballista,0,0,20,0
@@ -126,15 +126,15 @@ Dead Peer,0,0,20,0
 Cyclops,0,0,21,0
 Elder Bael,0,0,22,0
 Journeyman (2),0,0,20,0
-Pupil (2),2,55,20,1
+Pupil (2),0,55,20,1
+Ephraim Lord,0,10,20,0
+Ephraim Lord,0,10,20,0
+Ephraim Lord,0,10,20,0
+Ephraim Lord,0,10,20,0
+Ephraim Lord,0,10,20,0
+Ephraim Lord,0,10,20,0
 Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
-Ephraim Lord,1,10,20,0
+Ephraim Lord,0,10,20,0
 Ephraim Lord,1,10,20,0
 Ephraim Lord,1,10,20,0
 Ephraim Lord,1,10,20,0
