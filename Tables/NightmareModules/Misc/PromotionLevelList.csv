@@ -1,74 +1,74 @@
-INLINE PromoteLevelList,Prom Lvl
-None,255
-Ephraim Lord,255
-Eirika Lord,255
-Ephraim Master Lord,255
-Eirika Master Lord,255
-Socialknight,255
-Socialknight (F),255
-Paladin,255
-Paladin (F),255
-Armour Knight,255
-Armour Knight (F),255
-General,255
-General (F),255
-Thief,255
-Mamkute,255
-Mercenary,255
-Mercenary (F),255
-Hero,255
-Hero (F),255
-Swordfighter,255
-Swordfighter (F),255
-Swordmaster,255
-Swordmaster (F),255
-Assassin,255
-Assassin (F),255
-Archer,255
-Archer (F),255
-Sniper,255
-Sniper (F),255
-Forrest Knight,255
-Forrest Knight (F),255
-Dragon Knight,255
-Dragon Knight (F),255
-Dragon Master,255
-Dragon Master (F),255
-Wyvern Knight,255
-Wyvern Knight (F),255
-Mage,255
-Mage (F),255
-Sage,255
-Sage (F),255
-Mage Knight,255
-Mage Knight (F),255
-Bishop,255
-Bishop (F),255
-Shaman,255
-Shaman (F),255
-Druid,255
-Druid (F),255
-Summoner,255
-Summoner (F),255
-Rogue,255
-Gorgon Egg,255
-Great Knight,255
-Great Knight (F),255
-Trainee Soldier (2),255
-Trainee Fighter (3),255
-Trainee Mage (3),255
-Trainee Soldier (3),255
-Mamkute,255
-Mamkute (F),255
-Trainee Fighter (1),255
-Trainee Mage (1),255
-Fighter,255
-Warrior,255
-Mountain Thief,255
-Pirate,255
-Berserker,255
-Monk,255
-Priest,255
+INLINE Class_Level_Cap_Table,Prom Lvl
+0x00 Separator/Nothing,255
+0x1 Prince,255
+0x2 Huntress,255
+0x3 Lord Knight,255
+0x4 Lady Knight,255
+0x5 Lance Cav,20
+0x6 Duke Knight,255
+0x7 Sword Cav,20
+0x8 Forrest Knight,255
+0x9 Axe Cav,20
+0xa Rook Knight,255
+0xb Armor Knight,20
+0xc General,255
+0xd Soldier,20
+0xe Halberdier,255
+0xf Deserter,20
+0x10 Skirmisher,255
+0x11 Mercenary,20
+0x12 Champion,255
+0x13 Myrmidon,20
+0x14 Dread Fighter,255
+0x15 Thief,20
+0x16 Rogue,255
+0x17 Fighter,20
+0x18 Warrior,255
+0x19 Brigand,20
+0x1a Pirate,20
+0x1b Corsair,255
+0x1c Archer,20
+0x1d Sniper,255
+0x1e Outlaw,20
+0x1f Highwayman,255
+0x20 Mage,20
+0x21 Sage,255
+0x22 Shaman,20
+0x23 Sorcerer,255
+0x24 Monk,20
+0x25 Saint,255
+0x26 Cleric,20
+0x27 Priest,20
+0x28 Trobadour,255
+0x29 Troubaritz,255
+0x2a Mage Knight,255
+0x2b Sword Peg,20
+0x2c Sword Seraph,255
+0x2d Lance Peg,20
+0x2e Lance Seraph,255
+0x2f Lance Wyvern,20
+0x30 Lance Dragoon,255
+0x31 Axe Wyvern,20
+0x32 Axe Dragoon,255
+0x33 Hunting Dog,20
+0x34 War Dog,255
+0x35 Mercenary (F),20
+0x36 Champion (F),255
+0x37 Myrmidon (F),20
+0x38 Dread Fighter (F),255
+0x39 Fighter (F),20
+0x3a Warrior (F),255
+0x3b Archer (F),20
+0x3c Sniper (F),255
+0x3d Thief (F),20
+0x3e Rogue (F),255
+0x3f Outlaw (F),20
+0x40 Highwayman (F),255
+0x41 Mage (F),20
+0x42 Sage (F),255
+0x43 Shaman (F),20
+0x44 Sorcerer (F),255
+Empty,255
 Bard,255
 Trainee Soldier (1),255
 Pegasus Knight,255
