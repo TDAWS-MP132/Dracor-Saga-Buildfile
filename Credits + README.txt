@@ -33,3 +33,5 @@ Zane: MMB Wizard
 LegendofLoog: Buildfile Help and Typo Editor
 
 Epsilon: Typo Editor
+
+7743: LevelDoesNotReset Patch

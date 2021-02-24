@@ -1,0 +1,20 @@
+//Causes Level To Not Reset On Promo 
+//Credit: 7743
+
+PUSH
+ORG 0x002BE70
+BYTE 0x00 0x00 0x00 0x00 
+ORG 0x00736DA
+BYTE 0x18 0x7A
+POP
+
+
+
+
+
+
+
+
+
+
+
