@@ -1,4 +1,4 @@
-INLINE Class_Level_Cap_Table,Prom Lvl
+INLINE PromotionLevelList,Prom Lvl
 0x00 Separator/Nothing,255
 0x1 Prince,255
 0x2 Huntress,255
