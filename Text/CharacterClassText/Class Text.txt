@@ -346,7 +346,7 @@ Axe Dragoon[X]
 
 ## AxeDragoonDescription
 The most elite of axe[N]
-bearing wyvern knights.[N]
+bearing wyvern knights.[X]
 
 ## HuntingDogName
 Hunting Dog[X]
