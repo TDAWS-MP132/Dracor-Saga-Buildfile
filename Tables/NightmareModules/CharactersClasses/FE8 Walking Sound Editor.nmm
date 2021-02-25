@@ -1,15 +1,15 @@
-#FE8 Walking Sounds Editor by Circleseverywhere
+#
 #
 
 1
-FE8 Walking Sounds Editor by Circleseverywhere
-0x78d90
+WalkingSoundTable
+0xDEADBEEF
 255
 1
-ClassList.txt
+FE8 Class Editor.txt
 NULL
 
-Name value
+Sound
 0
 1
 NEHU
