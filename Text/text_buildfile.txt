@@ -12,7 +12,7 @@ Set health bar display[X]
 #first text ID in the free block
 Learned  [X]
 
-#include "Character Class Text Installer.event"
+#include "CharacterClassText/Character Class Text Installer.event"
 
 #include "statscreen_text.txt"
 
