@@ -10,6 +10,8 @@
 
 #include "NightmareModules\CharactersClasses\ClassTable.event"
 
+#include "NightmareModules\CharactersClasses\FE8 Walking Sound Editor.event"
+
 #include "NightmareModules\CharactersClasses\MagCharEditor.event"
 
 #include "NightmareModules\CharactersClasses\MagClassEditor.event"
