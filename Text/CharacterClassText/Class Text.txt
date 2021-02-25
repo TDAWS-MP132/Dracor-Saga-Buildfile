@@ -1,0 +1,378 @@
+## PrinceName
+Prince[X]
+
+## PrinceDescription
+Scions of nobility trained[N]
+in swords and lances.[X]
+
+## HuntressName
+Huntress[X]
+
+## HuntressDescription
+Women skilled with bows[N]
+who also have keen sight.[X]
+
+## LordKnightName
+Lord Knight[X]
+
+## LordKnightDescription
+Nobility who have assumed[N]
+the role of knight commander.[X]
+
+## LadyKnightName
+Lady Knight[X]
+
+## LadyKnightDescription
+A newly titled noblewoman[N]
+and knight commander.[X]
+
+## SoldierName
+Soldier[X]
+
+## SoldierDescription
+Disciplined but often[N]
+untrained spear wielders.[X]
+
+## HalberdierName
+Halberdier[X]
+
+## HalberdierDescription
+Veteran and skilled soldiers[N]
+who bear lances and axes both.[X]
+
+## DeserterName
+Deserter[X]
+
+## DeserterDescription
+Those who have abandoned the[N]
+battlefield, but not their spears.[X]
+
+## SkirmisherName
+Skirmisher[X]
+
+## SkirmisherDescription
+Light infantry who ignore[N]
+formation to scout and harry.[X]
+
+## MercenaryName
+Mercenary[X]
+
+## MercenaryDescription
+Individuals who use blades[N]
+to fight for a living.[X]
+
+## ChampionName
+Champion[X]
+
+## ChampionDescription
+Veterans of the battlefield,[N]
+adept with blades and axes.[X]
+
+## MyrmidonName
+Myrmidon[X]
+
+## MyrmidonDescription
+Duelists skilled with swords[N]
+that have unparalleled speed.[X]
+
+## DreadfighterName
+Dread Fighter[X]
+
+## DreadfighterDescription
+Swordmasters who hunt magi with[N]
+their high speed and resistance[X]
+
+## ThiefName
+Thief[X]
+
+## ThiefDescription
+Cutpurses who prefer scouting[N]
+or theft to swordplay[X]
+
+## RogueName
+Rogue[X]
+
+## RogueDescription
+Skilled thieves with even[N]
+swifter eyes, hands, and feet.[X]
+
+## FighterName
+Fighter[X]
+
+## FighterDescription
+Burly combatants with strength,[N]
+bulk, and skill with axes.[X]
+
+## WarriorName
+Warrior[X]
+
+## WarriorDescription
+Veteran fighters who now wield[N]
+bows alongside their trusty axes.[X]
+
+## BrigandName
+Brigand[X]
+
+## BrigandDescription
+Burly bandits and thugs who[N]
+use axes to inflict great damage.[X]
+
+## PirateName
+Pirate[X]
+
+## PirateDescription
+Salty sea dogs who can swim[N]
+the seas and swing axes.[X]
+
+## CorsairName
+Corsair[X]
+
+## CorsairDescription
+Pirates or thugs who use sabers[N]
+and axes for a larger purpose.[X]
+
+## ArmorknightName
+Armor Knight[X]
+
+## ArmorknightDescription
+Armored weapon generalists[N]
+with towering defence.[X]
+
+## GeneralName
+General[X]
+
+## GeneralDescription
+Promoted armored knights[N]
+with complete weapon access.[X]
+
+## ArcherName
+Archer[X]
+
+## ArcherDescription
+Bow wielding infantry[N]
+With high skill.[X]
+
+## SniperName
+Sniper[X]
+
+## SniperDescription
+Master archers with[N]
+superior skill and range.[X]
+
+## OutlawName
+Outlaw[X]
+
+## OutlawDescription
+Scoundrels who threaten[N]
+their marks with bows.[X]
+
+## HighwaymanName
+Highwayman[X]
+
+## HighwaymanDescription
+Expert outlaws who conduct[N]
+raids with their bowmanship.[X]
+
+## LanceCavName
+Lance Cav[X]
+
+## LanceCavDescription
+Horseback riders who[N]
+joust with lances.
+
+## DukeKnightName
+Duke Knight[X]
+
+## DukeKnightDescription
+Exalted cavalry who[N]
+wield lances and swords.[X]
+
+## SwordCavName
+Sword Cav[X]
+
+## SwordCavDescription
+Horseback riders who[N]
+duel with swords.[X]
+
+## ForrestKnightName
+Forrest Knight[X]
+
+## ForrestKnightDescription
+Sword and bow wielding[N]
+knight errant rangers.[X]
+
+## AxeCavName
+Axe Cav[X]
+
+## AxeCavDescription
+Horseback riders who[N]
+cleave with axes.[X]
+
+## RookKnightName
+Rook Knight[X]
+
+## RookKnightDescription
+Blockade breaking riders[N]
+who bear axes and lances.[X]
+
+## MageName
+Mage[X]
+
+## MageDescription
+Scholars of elemental magic[N]
+who wield it for battle.[X]
+
+## SageName
+Sage[X]
+
+## SageDescription
+Masters of elemental magic[N]
+with humbling powers.[X]
+
+## ShamanName
+Shaman[X]
+
+## ShamanDescription
+Renitent occultists seduced[N] 
+by forbidden power.[X]
+
+## SorcererName
+Sorcerer[X]
+
+## SorcererDescription
+Inhuman beings, difficult to[N]
+kill and immensely powerful.[X] 
+
+## MonkName
+Monk[X]
+
+## MonkDescription
+Acoltyes of the human faith who[N] 
+resist the effects of magic.[X]
+
+## SaintName
+Saint[X]
+
+## SaintDescription
+Steadfast followers of light[N]
+who also practice staves.[X]
+
+## ClericName
+Cleric[X]
+
+## ClericDescription
+Women who study medicine[N]
+and wield staves.[X]
+
+## PriestName
+Priest[X]
+
+## PriestDescription
+Men who study medicine[N]
+and wield staves.[X]
+
+## TrobairitzName
+Trobairitz[X]
+
+## TrobaritzDescription
+Veteran clerics who travel[N]
+to where they are needed.[X]
+
+## TroubadourName
+Troubadour[X]
+
+## TroubadourDescription
+Veteran priests who travel[N]
+to where they are needed.[X]
+
+## MageKnightName
+Mage Knight[X]
+
+## MageKnightDescription
+Horseback knights who practice[N] 
+spells rather than swords.[X]
+
+## SwordPegName
+Sword Peg[X]
+
+## SwordPegDescription
+Pegasus riders who duel[N]
+in the skies with swords.[X]
+
+## SwordSeraphName
+Sword Seraph[X]
+
+## SwordSeraphDescription
+Professional pegasus knights[N]
+with swift swordplay.[X[
+
+## LancePegName
+Lance Peg[X]
+
+## LancePegDescription
+Pegasus riders who joust[N]
+in the sky with lances.[X]
+
+## LanceSeraphName
+Lance Seraph[X]
+
+## LanceSeraphDescription
+Professional pegasus knights[N]
+with swift spearplay.[X] 
+
+## LanceWyvernName
+Lance Wyvern[X]
+
+## LanceWyvernDescription
+Sturdy and proud spear[N]
+wielding wyvern riders.[X]
+
+## LanceDragoonName
+Lance Dragoon[X]
+
+## LanceDragoonDescription
+The most elite of lance[N]
+bearing wyvern knights.[X]
+
+## AxeWyvernName
+Axe Wyvern[X]
+
+## AxeWyvernDescription
+Sturdy and proud axe[N]
+wielding wyvern riders.[X]
+
+## AxeDragoonName
+Axe Dragoon[X]
+
+## AxeDragoonDescription
+The most elite of axe[N]
+bearing wyvern knights.[N]
+
+## HuntingDogName
+Hunting Dog[X]
+
+## HuntingDogDescription
+A loyal and disciplined[N]
+hunter's compainion.[X] 
+
+## WarDogName
+War Dog[X]
+
+## WarDogDescription
+A companion forced to[N]
+adjust to human warfare.[X]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
