@@ -75,10 +75,10 @@ Myrmidon[X]
 Duelists skilled with swords[N]
 that have unparalleled speed.[X]
 
-## DreadfighterName
+## DreadFighterName
 Dread Fighter[X]
 
-## DreadfighterDescription
+## DreadFighterDescription
 Swordmasters who hunt magi with[N]
 their high speed and resistance[X]
 
@@ -131,10 +131,10 @@ Corsair[X]
 Pirates or thugs who use sabers[N]
 and axes for a larger purpose.[X]
 
-## ArmorknightName
+## ArmorKnightName
 Armor Knight[X]
 
-## ArmorknightDescription
+## ArmorKnightDescription
 Armored weapon generalists[N]
 with towering defence.[X]
 
@@ -178,7 +178,7 @@ Lance Cav[X]
 
 ## LanceCavDescription
 Horseback riders who[N]
-joust with lances.
+joust with lances.[X]
 
 ## DukeKnightName
 Duke Knight[X]
@@ -241,7 +241,7 @@ Sorcerer[X]
 
 ## SorcererDescription
 Inhuman beings, difficult to[N]
-kill and immensely powerful.[X] 
+kill and immensely powerful.[X]
 
 ## MonkName
 Monk[X]
@@ -274,7 +274,7 @@ and wield staves.[X]
 ## TrobairitzName
 Trobairitz[X]
 
-## TrobaritzDescription
+## TrobairitzDescription
 Veteran clerics who travel[N]
 to where they are needed.[X]
 
@@ -304,7 +304,7 @@ Sword Seraph[X]
 
 ## SwordSeraphDescription
 Professional pegasus knights[N]
-with swift swordplay.[X[
+with swift swordplay.[X]
 
 ## LancePegName
 Lance Peg[X]
@@ -318,7 +318,7 @@ Lance Seraph[X]
 
 ## LanceSeraphDescription
 Professional pegasus knights[N]
-with swift spearplay.[X] 
+with swift spearplay.[X]
 
 ## LanceWyvernName
 Lance Wyvern[X]
@@ -353,7 +353,7 @@ Hunting Dog[X]
 
 ## HuntingDogDescription
 A loyal and disciplined[N]
-hunter's compainion.[X] 
+hunter's compainion.[X]
 
 ## WarDogName
 War Dog[X]
