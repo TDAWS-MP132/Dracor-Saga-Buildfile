@@ -17,15 +17,22 @@ LaurnetLacroix: Belial Mug (F2U), Wiolett Mug (F2U), Ruta Mug (F2U), Morrigan Mu
 Feier: Nebiros Mug (F2U)
 
 //Animations and Sprites
-Team SALVAGED: Cavalier Animations 
 
-Teraspark: Ephraim Repalette + Sword
+Team SALVAGED: Cavalier Animations, Paladin Animations
 
-eCut, Skitty, Belle, St Jack: Great Lord Ephraim Vanilla + Weapons
+Ephraim Repalette + Sword: Teraspark
 
-DerTheVaporion: Der Forrest-Like Archer
+Great Lord Ephraim Vanilla + Weapons: eCut, Skitty, Belle, St Jack 
 
-DerTheVaporion, Flasuban: Male and Female Improved Archer 
+Der Forrest-Like Archer: DerTheVaporion
+
+Male and Female Improved Archer: DerTheVaporion, Flasuban
+
+Female Nomad Trooper Repalette: Pikmin1211, Maiser6, Ltranc, Valak
+
+Gold Knight: Nuramon
+
+Great Knight Repalette: Skitty
 
 //Maps & Tilesets:
 

@@ -32,3 +32,34 @@
 #include "Event/Cav Handaxe Installer.event"
 #include "Event/Cav Unarmed Installer.event"
 }
+{
+#include "Event/Duke Knight Sword Installer.event"
+#include "Event/Duke Knight Lance Installer.event"
+#include "Event/Duke Knight Unarmed Installer.event"
+}
+{
+#include "Event/Forrest Knight Sword Installer.event"
+#include "Event/Forrest Knight Bow Installer.event"
+#include "Event/Forrest Knight Unarmed Installer.event"
+}
+{
+#include "Events/Rook Knight Lance Installer.event"
+#include "Events/Rook Knight Axe Installer.event"
+#include "Events/Rook Knight Handaxe Installer.event"
+#include "Events/Rook Knight Unarmed Installer.event"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
