@@ -43,14 +43,30 @@
 #include "Event/Forrest Knight Unarmed Installer.event"
 }
 {
-#include "Events/Rook Knight Lance Installer.event"
-#include "Events/Rook Knight Axe Installer.event"
-#include "Events/Rook Knight Handaxe Installer.event"
-#include "Events/Rook Knight Unarmed Installer.event"
+#include "Event/Rook Knight Lance Installer.event"
+#include "Event/Rook Knight Axe Installer.event"
+#include "Event/Rook Knight Handaxe Installer.event"
+#include "Event/Rook Knight Unarmed Installer.event"
 }
-
-
-
+{
+#include "Event/Soldier Lance Installer.event"
+#include "Event/Soldier Unarmed Installer.event"
+}
+{
+#include "Event/Halberdier Lance Installer.event"
+#include "Event/Halberdier Axe Installer.event"
+#include "Event/Halberdier Handaxe Installer.event"
+#include "Event/Halberdier Unarmed Installer.event"
+}
+{
+#include "Event/Deserter Lance Installer.event"
+#include "Event/Deserter Unarmed Installer.event"
+}
+{
+#include "Event/Skirmisher Sword Installer.event"
+#include "Event/Skirmisher Lance Installer.event"
+#include "Event/Skirmisher Unarmed Installer.event"
+}
 
 
 

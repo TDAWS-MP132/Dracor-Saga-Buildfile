@@ -18,7 +18,7 @@ Feier: Nebiros Mug (F2U)
 
 //Animations and Sprites
 
-Team SALVAGED: Cavalier Animations, Paladin Animations
+Team SALVAGED: Cavalier Animations, Paladin Animations, Knight Animations
 
 Ephraim Repalette + Sword: Teraspark
 
@@ -33,6 +33,14 @@ Female Nomad Trooper Repalette: Pikmin1211, Maiser6, Ltranc, Valak
 Gold Knight: Nuramon
 
 Great Knight Repalette: Skitty
+
+Deserter: Alusq
+
+Spartan: Vilkalizer, Pikmin1211
+
+Improved Soldier 2.0: Alusq
+
+Halberdier 2.0: TBA, Spud, MeatofJustice
 
 //Maps & Tilesets:
 
