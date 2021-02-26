@@ -1,0 +1,34 @@
+{
+#include "Event/Prince Sword Installer.event"
+#include "Event/Prince Lance Installer.event"
+#include "Event/Prince Unarmed Installer.event"
+}
+{
+#include "Event/Huntress Bow Installer.event"
+#include "Event/Huntress Unarmed Installer.event"
+}
+{
+#include "Event/Lord Knight Sword Installer.event"
+#include "Event/Lord Knight Lance Installer.event"
+#include "Event/Lord Knight Unarmed Installer.event"
+}
+{
+#include "Event/Lady Knight Sword Installer.event"
+#include "Event/Lady Knight Bow Installer.event"
+#include "Event/Lady Knight Unarmed Installer.event"
+}
+{
+#include "Event/Archer Bow Installer.event"
+#include "Event/Archer Unarmed Installer.event"
+}
+{
+#include "Event/FArcher Bow Installer.event"
+#include "Event/FArcher Unarmed Installer.event"
+}
+{
+#include "Event/Cav Sword Installer.event"
+#include "Event/Cav Lance Installer.event"
+#include "Event/Cav Axe Installer.event"
+#include "Event/Cav Handaxe Installer.event"
+#include "Event/Cav Unarmed Installer.event"
+}

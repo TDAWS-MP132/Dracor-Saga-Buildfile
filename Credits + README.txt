@@ -2,7 +2,7 @@
 An FE8U Hackrom by TDAWS
 
 # Credits
-//Visual Assets:
+//Mugs
 
 RandomWizard: Folke Mug, Chief Mug, Adelhard Mug, Touchups on Dobromik Mug
 
@@ -15,6 +15,17 @@ MournfulRelic: Niav Mug
 LaurnetLacroix: Belial Mug (F2U), Wiolett Mug (F2U), Ruta Mug (F2U), Morrigan Mug (F2U), Czcibor Mug (F2U), Lauritza Mug (F2U)
 
 Feier: Nebiros Mug (F2U)
+
+//Animations and Sprites
+Team SALVAGED: Cavalier Animations 
+
+Teraspark: Ephraim Repalette + Sword
+
+eCut, Skitty, Belle, St Jack: Great Lord Ephraim Vanilla + Weapons
+
+DerTheVaporion: Der Forrest-Like Archer
+
+DerTheVaporion, Flasuban: Male and Female Improved Archer 
 
 //Maps & Tilesets:
 
