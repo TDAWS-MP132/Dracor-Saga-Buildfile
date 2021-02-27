@@ -176,7 +176,22 @@
 #include "Event/FWarrior Bow Installer.event"
 #include "Event/FWarrior Unarmed Installer.event"
 }
-
+{
+#include "Event/Brigand Axe Installer.event"
+#include "Event/Brigand Handaxe Installer.event"
+#include "Event/Brigand Unarmed Installer.event"
+}
+{
+#include "Event/Pirate Axe Installer.event"
+#include "Event/Pirate Handaxe Installer.event"
+#include "Event/Pirate Unarmed Installer.event"
+}
+{
+#include "Event/Corsair Sword Installer.event"
+#include "Event/Corsair Axe Installer.event"
+#include "Event/Corsair Handaxe Installer.event"
+#include "Event/Corsair Unarmed Installer.event"
+}
 
 
 

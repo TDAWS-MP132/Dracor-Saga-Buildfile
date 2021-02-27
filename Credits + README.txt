@@ -72,6 +72,12 @@ Warrior Repalette: Pushwall
 
 Female Warrior Repalette: Temp, Pushwall
 
+Hat Brigand: Eldritch Abomination
+
+DS Style Pirate: DerTheVaporeon
+
+Dart Berserker: Greentea, DerTheVaporeon, Raspberry, BwdYeti, Spud
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1
