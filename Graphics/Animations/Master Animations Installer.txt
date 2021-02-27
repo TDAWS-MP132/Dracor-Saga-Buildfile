@@ -247,4 +247,26 @@
 {
 #include "Event/War Dog Anim Installer.event"
 }
+{
+#include "Event/Peg Sword Installer.event"
+#include "Event/Peg Lance Installer.event"
+#include "Event/Peg Unarmed Installer.event"
+}
+{
+#include "Event/Seraph Sword Installer.event"
+#include "Event/Seraph Lance Installer.event"
+#include "Event/Seraph Unarmed Installer.event"
+}
+{
+#include "Event/Wyvern Lance Installer.event"
+#include "Event/Wyvern Axe Installer.event"
+#include "Event/Wyvern Handaxe Installer.event"
+#include "Event/Wyvern Unarmed Installer.event"
+}
+{
+#include "Event/Dragoon Lance Installer.event"
+#include "Event/Dragoon Axe Installer.event"
+#include "Event/Dragoon Handaxe Installer.event"
+#include "Event/Dragoon Unarmed Installer.event"
+}
 
