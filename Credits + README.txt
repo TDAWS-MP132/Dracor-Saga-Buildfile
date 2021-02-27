@@ -38,6 +38,12 @@ Armored Hero: Nuramon
 
 Armored Hero Female Short Hair: Nuramon, Flasuban
 
+Marksman: Nuramon
+
+Hunter: Deranger, Jey the Count (F)
+
+Hunter Improved: Leo_link, Spud, MeatofJustice
+
 Lyn Style Male Myrm: Leo_link, Tsushi, Iscaneus
 
 Leo_link: Female Myrm

@@ -26,6 +26,14 @@
 #include "Event/FArcher Unarmed Installer.event"
 }
 {
+#include "Event/Sniper Bow Installer.event"
+#include "Event/Sniper Unarmed Installer.event"
+}
+{
+#include "Event/FSniper Bow Installer.event"
+#include "Event/FSniper Unarmed Installer.event"
+}
+{
 #include "Event/Cav Sword Installer.event"
 #include "Event/Cav Lance Installer.event"
 #include "Event/Cav Axe Installer.event"
@@ -101,14 +109,21 @@
 #include "Event/FDread Fighter Sword Installer.event"
 #include "Event/FDread Fighter Unarmed Installer.event"
 {
-
-
-
-
-
-
-
-
+#include "Event/Outlaw Bow Installer.event"
+#include "Event/Outlaw Unarmed Installer.event"
+}
+{
+#include "Event/FOutlaw Bow Installer.event"
+#include "Event/FOutlaw Unarmed Installer.event"
+}
+{
+#include "Event/Highwayman Bow Installer.event"
+#include "Event/Highwayman Unarmed Installer.event"
+}
+{
+#include "Event/FHighwayman Bow Installer.event"
+#include "Event/FHighwayman Unarmed Installer.event"
+}
 
 
 
