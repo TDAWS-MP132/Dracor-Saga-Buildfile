@@ -86,7 +86,32 @@
 #include "Event/FChampaion Axe Installer.event"
 #include "Event/FChampaion Handaxe Installer.event"
 #include "Event/FChampaion Unarmed Installer.event"
+{
+#include "Event/Myrmidon Sword Installer.event"
+#include "Event/Myrmidon Unarmed Installer.event"
 }
+}
+#include "Event/FMyrmidon Sword Installer.event"
+#include "Event/FMyrmidon Unarmed Installer.event"
+}
+#include "Event/Dread Fighter Sword Installer.event"
+#include "Event/Dread Fighter Unarmed Installer.event"
+{
+}
+#include "Event/FDread Fighter Sword Installer.event"
+#include "Event/FDread Fighter Unarmed Installer.event"
+{
+
+
+
+
+
+
+
+
+
+
+
 
 
 

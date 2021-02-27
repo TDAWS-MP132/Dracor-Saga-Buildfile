@@ -38,6 +38,10 @@ Armored Hero: Nuramon
 
 Armored Hero Female Short Hair: Nuramon, Flasuban
 
+Lyn Style Male Myrm: Leo_link, Tsushi, Iscaneus
+
+Leo_link: Female Myrm
+
 Great Knight Repalette: Skitty
 
 Deserter: Alusq
