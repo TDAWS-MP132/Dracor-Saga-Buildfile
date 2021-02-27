@@ -67,12 +67,26 @@
 #include "Event/Skirmisher Lance Installer.event"
 #include "Event/Skirmisher Unarmed Installer.event"
 }
-
-
-
-
-
-
+{
+#include "Event/Mercenary Sword Installer.event"
+#include "Event/Mercenary Unarmed Installer.event"
+}
+{
+#include "Event/FMercenary Sword Installer.event"
+#include "Event/FMercenary Unarmed Installer.event"
+}
+{
+#include "Event/Champaion Sword Installer.event"
+#include "Event/Champaion Axe Installer.event"
+#include "Event/Champaion Handaxe Installer.event"
+#include "Event/Champaion Unarmed Installer.event"
+}
+{
+#include "Event/FChampaion Sword Installer.event"
+#include "Event/FChampaion Axe Installer.event"
+#include "Event/FChampaion Handaxe Installer.event"
+#include "Event/FChampaion Unarmed Installer.event"
+}
 
 
 
