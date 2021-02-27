@@ -16,6 +16,8 @@ LaurnetLacroix: Belial Mug (F2U), Wiolett Mug (F2U), Ruta Mug (F2U), Morrigan Mu
 
 Feier: Nebiros Mug (F2U)
 
+CanDy: Maera Mug (F2U)
+
 //Animations and Sprites
 
 Team SALVAGED: Cavalier Animations, Paladin Animations, Knight Animations, Merc Animations, Armor Knight Animations
