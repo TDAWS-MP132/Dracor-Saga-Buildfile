@@ -84,6 +84,16 @@ Awakening Style Cleric: BatimaTheBat
 
 Priest Improved Repalette: Flasuban, Eldritch Abomination
 
+MautheDoog Repalette: Teraspark
+
+Wyvern Knight Repalette + Weapons: Feaw, St jack, ltranc, Lord_Tweed
+
+Wyvern Lord Dragoon: Mycahel, Nuramon, The_Big_Dededester
+
+Falcoknight Improved + Weapons: Flasuban, Nuramon, Knabepicer
+
+Pegasus Knight + Sword: MageKnight404, MakeFEGayer
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1

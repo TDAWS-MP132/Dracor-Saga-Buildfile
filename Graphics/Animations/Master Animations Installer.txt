@@ -241,6 +241,10 @@
 #include "Event/Troubadour Staff Installer.event"
 #include "Event/Troubadour Unarmed Installer.event"
 }
-
-
+{
+#include "Event/Hunting Dog Anim Installer.event"
+}
+{
+#include "Event/War Dog Anim Installer.event"
+}
 
