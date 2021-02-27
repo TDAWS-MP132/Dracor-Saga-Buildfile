@@ -220,7 +220,13 @@
 #include "Event/FSorcerer Dark Installer.event"
 #include "Event/FSorcerer Staff Installer.event"
 }
-
+{
+#include "Event/Monk Light Installer.event"
+}
+{
+#include "Event/Saint Staff Installer.event"
+#include "Event/Saint Unarmed Installer.event"
+}
 
 
 

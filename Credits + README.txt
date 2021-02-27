@@ -78,6 +78,8 @@ DS Style Pirate: DerTheVaporeon
 
 Dart Berserker: Greentea, DerTheVaporeon, Raspberry, BwdYeti, Spud
 
+Monk Repalette: Eldritch Abomination
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1
