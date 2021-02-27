@@ -1,6 +1,6 @@
-#define FreeSpace 0xb2a610
-#define FreeSpaceBLRange 0x1c1ec0
+#define FreeSpace 0x1000000
 #define EndSpace 0xefb2e0
+#define FreeSpaceBLRange 0x1c1ec0
 
 #define DefaultAP 0x81CAA20
 
