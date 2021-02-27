@@ -227,7 +227,20 @@
 #include "Event/Saint Staff Installer.event"
 #include "Event/Saint Unarmed Installer.event"
 }
-
+#include "Event/Cleric Staff Installer.event"
+#include "Event/Cleric Unarmed Installer.event"
+{
+#include "Event/Priest Staff Installer.event"
+#include "Event/Priest Unarmed Installer.event"
+}
+{
+#include "Event/Trobairitz Staff Installer.event"
+#include "Event/Trobairitz Unarmed Installer.event"
+}
+{
+#include "Event/Troubadour Staff Installer.event"
+#include "Event/Troubadour Unarmed Installer.event"
+}
 
 
 

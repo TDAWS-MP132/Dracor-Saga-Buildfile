@@ -80,6 +80,10 @@ Dart Berserker: Greentea, DerTheVaporeon, Raspberry, BwdYeti, Spud
 
 Monk Repalette: Eldritch Abomination
 
+Awakening Style Cleric: BatimaTheBat
+
+Priest Improved Repalette: Flasuban, Eldritch Abomination
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1
