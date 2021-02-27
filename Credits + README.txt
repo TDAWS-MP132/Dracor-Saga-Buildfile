@@ -18,7 +18,7 @@ Feier: Nebiros Mug (F2U)
 
 //Animations and Sprites
 
-Team SALVAGED: Cavalier Animations, Paladin Animations, Knight Animations, Merc Animations
+Team SALVAGED: Cavalier Animations, Paladin Animations, Knight Animations, Merc Animations, Armor Knight Animations
 
 Female Team SALVAGED Merc: Team SALVAGED, Jey the Count
 
@@ -26,13 +26,15 @@ Ephraim Repalette + Sword: Teraspark
 
 Great Lord Ephraim Vanilla + Weapons: eCut, Skitty, Belle, St Jack 
 
-Der Forrest-Like Archer: DerTheVaporion
+Der Forrest-Like Archer: DerTheVaporeon
 
-Male and Female Improved Archer: DerTheVaporion, Flasuban
+Male and Female Improved Archer: DerTheVaporeon, Flasuban
 
 Female Nomad Trooper Repalette: Pikmin1211, Maiser6, Ltranc, Valak
 
 Gold Knight: Nuramon
+
+Vanilla General + Weapons: TBA, DerTheVaporeon, GabrielKnight, JPN, Knabepicer
 
 Armored Hero: Nuramon
 

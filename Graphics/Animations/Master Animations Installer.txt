@@ -124,6 +124,31 @@
 #include "Event/FHighwayman Bow Installer.event"
 #include "Event/FHighwayman Unarmed Installer.event"
 }
+{
+#include "Event/Armor Knight Sword Installer.event"
+#include "Event/Armor Knight Lance Installer.event"
+#include "Event/Armor Knight Axe Installer.event"
+#include "Event/Armor Knight Handaxe Installer.event"
+#include "Event/Armor Knight Unarmed Installer.event"
+}
+{
+#include "Event/General Sword Installer.event"
+#include "Event/General Lance Installer.event"
+#include "Event/General Axe Installer.event"
+#include "Event/General Handaxe Installer.event"
+#include "Event/General Bow Installer.event"
+#include "Event/General Unarmed Installer.event"
+{
+
+
+
+
+
+
+
+
+
+
 
 
 
