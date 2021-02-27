@@ -192,6 +192,23 @@
 #include "Event/Corsair Handaxe Installer.event"
 #include "Event/Corsair Unarmed Installer.event"
 }
+{
+#include "Event/Mage Anima Installer.event"
+}
+{
+#include "Event/FMage Anima Installer.event"
+}
+{
+#include "Event/Sage Anima Installer.event"
+#include "Event/Sage Staff Installer.event"
+}
+{
+#include "Event/FSage Anima Installer.event"
+#include "Event/FSage Staff Installer.event"
+}
+
+
+
 
 
 
