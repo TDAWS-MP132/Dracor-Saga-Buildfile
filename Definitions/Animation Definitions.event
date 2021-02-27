@@ -264,7 +264,7 @@ ALIGN 4
 LadyKnightAnims:
 SwordAnim(LadyKnightSwordAnim)
 BowAnim(LadyKnightBowAnim)
-UnarmedAnim{LadyKnightUnarmedAnim)
+UnarmedAnim(LadyKnightUnarmedAnim)
 EndAnim
 
 ALIGN 4

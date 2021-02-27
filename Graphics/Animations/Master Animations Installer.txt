@@ -146,50 +146,52 @@
 #include "Event/FMercenary Unarmed Installer.event"
 }
 {
-#include "Event/Champaion Sword Installer.event"
+#include "Event/Champion Sword Installer.event"
 }
 {
-#include "Event/Champaion Axe Installer.event"
+#include "Event/Champion Axe Installer.event"
 }
 {
-#include "Event/Champaion Handaxe Installer.event"
+#include "Event/Champion Handaxe Installer.event"
 }
 {
-#include "Event/Champaion Unarmed Installer.event"
+#include "Event/Champion Unarmed Installer.event"
 }
 {
-#include "Event/FChampaion Sword Installer.event"
+#include "Event/FChampion Sword Installer.event"
 }
 {
-#include "Event/FChampaion Axe Installer.event"
+#include "Event/FChampion Axe Installer.event"
 }
 {
-#include "Event/FChampaion Handaxe Installer.event"
+#include "Event/FChampion Handaxe Installer.event"
 }
 {
-#include "Event/FChampaion Unarmed Installer.event"
+#include "Event/FChampion Unarmed Installer.event"
 {
 #include "Event/Myrmidon Sword Installer.event"
 }
 {
 #include "Event/Myrmidon Unarmed Installer.event"
 }
-}
+{
 #include "Event/FMyrmidon Sword Installer.event"
 }
 {
 #include "Event/FMyrmidon Unarmed Installer.event"
 }
+{
 #include "Event/Dread Fighter Sword Installer.event"
 }
 {
 #include "Event/Dread Fighter Unarmed Installer.event"
-{
 }
+{
 #include "Event/FDread Fighter Sword Installer.event"
 }
 {
 #include "Event/FDread Fighter Unarmed Installer.event"
+}
 {
 #include "Event/Outlaw Bow Installer.event"
 }
@@ -246,6 +248,7 @@
 }
 {
 #include "Event/General Unarmed Installer.event"
+}
 {
 #include "Event/Thief Sword Installer.event"
 }
@@ -387,10 +390,12 @@
 {
 #include "Event/Saint Unarmed Installer.event"
 }
+{
 #include "Event/Cleric Staff Installer.event"
 }
 {
 #include "Event/Cleric Unarmed Installer.event"
+}
 {
 #include "Event/Priest Staff Installer.event"
 }
