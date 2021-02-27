@@ -1,195 +1,345 @@
 {
 #include "Event/Prince Sword Installer.event"
+}
+{
 #include "Event/Prince Lance Installer.event"
+}
+{
 #include "Event/Prince Unarmed Installer.event"
 }
 {
 #include "Event/Huntress Bow Installer.event"
+}
+{
 #include "Event/Huntress Unarmed Installer.event"
 }
 {
 #include "Event/Lord Knight Sword Installer.event"
+}
+{
 #include "Event/Lord Knight Lance Installer.event"
+}
+{
 #include "Event/Lord Knight Unarmed Installer.event"
 }
 {
 #include "Event/Lady Knight Sword Installer.event"
+}
+{
 #include "Event/Lady Knight Bow Installer.event"
+}
+{
 #include "Event/Lady Knight Unarmed Installer.event"
 }
 {
 #include "Event/Archer Bow Installer.event"
+}
+{
 #include "Event/Archer Unarmed Installer.event"
 }
 {
 #include "Event/FArcher Bow Installer.event"
+}
+{
 #include "Event/FArcher Unarmed Installer.event"
 }
 {
 #include "Event/Sniper Bow Installer.event"
+}
+{
 #include "Event/Sniper Unarmed Installer.event"
 }
 {
 #include "Event/FSniper Bow Installer.event"
+}
+{
 #include "Event/FSniper Unarmed Installer.event"
 }
 {
 #include "Event/Cav Sword Installer.event"
+}
+{
 #include "Event/Cav Lance Installer.event"
+}
+{
 #include "Event/Cav Axe Installer.event"
+}
+{
 #include "Event/Cav Handaxe Installer.event"
+}
+{
 #include "Event/Cav Unarmed Installer.event"
 }
 {
 #include "Event/Duke Knight Sword Installer.event"
+}
+{
 #include "Event/Duke Knight Lance Installer.event"
+}
+{
 #include "Event/Duke Knight Unarmed Installer.event"
 }
 {
 #include "Event/Forrest Knight Sword Installer.event"
+}
+{
 #include "Event/Forrest Knight Bow Installer.event"
+}
+{
 #include "Event/Forrest Knight Unarmed Installer.event"
 }
 {
 #include "Event/Rook Knight Lance Installer.event"
+}
+{
 #include "Event/Rook Knight Axe Installer.event"
+}
+{
 #include "Event/Rook Knight Handaxe Installer.event"
+}
+{
 #include "Event/Rook Knight Unarmed Installer.event"
 }
 {
 #include "Event/Soldier Lance Installer.event"
+}
+{
 #include "Event/Soldier Unarmed Installer.event"
 }
 {
 #include "Event/Halberdier Lance Installer.event"
+}
+{
 #include "Event/Halberdier Axe Installer.event"
+}
+{
 #include "Event/Halberdier Handaxe Installer.event"
+}
+{
 #include "Event/Halberdier Unarmed Installer.event"
 }
 {
 #include "Event/Deserter Lance Installer.event"
+}
+{
 #include "Event/Deserter Unarmed Installer.event"
 }
 {
 #include "Event/Skirmisher Sword Installer.event"
+}
+{
 #include "Event/Skirmisher Lance Installer.event"
+}
+{
 #include "Event/Skirmisher Unarmed Installer.event"
 }
 {
 #include "Event/Mercenary Sword Installer.event"
+}
+{
 #include "Event/Mercenary Unarmed Installer.event"
 }
 {
 #include "Event/FMercenary Sword Installer.event"
+}
+{
 #include "Event/FMercenary Unarmed Installer.event"
 }
 {
 #include "Event/Champaion Sword Installer.event"
+}
+{
 #include "Event/Champaion Axe Installer.event"
+}
+{
 #include "Event/Champaion Handaxe Installer.event"
+}
+{
 #include "Event/Champaion Unarmed Installer.event"
 }
 {
 #include "Event/FChampaion Sword Installer.event"
+}
+{
 #include "Event/FChampaion Axe Installer.event"
+}
+{
 #include "Event/FChampaion Handaxe Installer.event"
+}
+{
 #include "Event/FChampaion Unarmed Installer.event"
 {
 #include "Event/Myrmidon Sword Installer.event"
+}
+{
 #include "Event/Myrmidon Unarmed Installer.event"
 }
 }
 #include "Event/FMyrmidon Sword Installer.event"
+}
+{
 #include "Event/FMyrmidon Unarmed Installer.event"
 }
 #include "Event/Dread Fighter Sword Installer.event"
+}
+{
 #include "Event/Dread Fighter Unarmed Installer.event"
 {
 }
 #include "Event/FDread Fighter Sword Installer.event"
+}
+{
 #include "Event/FDread Fighter Unarmed Installer.event"
 {
 #include "Event/Outlaw Bow Installer.event"
+}
+{
 #include "Event/Outlaw Unarmed Installer.event"
 }
 {
 #include "Event/FOutlaw Bow Installer.event"
+}
+{
 #include "Event/FOutlaw Unarmed Installer.event"
 }
 {
 #include "Event/Highwayman Bow Installer.event"
+}
+{
 #include "Event/Highwayman Unarmed Installer.event"
 }
 {
 #include "Event/FHighwayman Bow Installer.event"
+}
+{
 #include "Event/FHighwayman Unarmed Installer.event"
 }
 {
 #include "Event/Armor Knight Sword Installer.event"
+}
+{
 #include "Event/Armor Knight Lance Installer.event"
+}
+{
 #include "Event/Armor Knight Axe Installer.event"
+}
+{
 #include "Event/Armor Knight Handaxe Installer.event"
+}
+{
 #include "Event/Armor Knight Unarmed Installer.event"
 }
 {
 #include "Event/General Sword Installer.event"
+}
+{
 #include "Event/General Lance Installer.event"
+}
+{
 #include "Event/General Axe Installer.event"
+}
+{
 #include "Event/General Handaxe Installer.event"
+}
+{
 #include "Event/General Bow Installer.event"
+}
+{
 #include "Event/General Unarmed Installer.event"
 {
 #include "Event/Thief Sword Installer.event"
+}
+{
 #include "Event/Thief Unarmed Installer.event"
 }
 {
 #include "Event/FThief Sword Installer.event"
+}
+{
 #include "Event/FThief Unarmed Installer.event"
 }
 {
 #include "Event/Rogue Sword Installer.event"
+}
+{
 #include "Event/Rogue Unarmed Installer.event"
 }
 {
 #include "Event/FRogue Sword Installer.event"
+}
+{
 #include "Event/FRogue Unarmed Installer.event"
 }
 {
 #include "Event/Fighter Axe Installer.event"
+}
+{
 #include "Event/Fighter Handaxe Installer.event"
+}
+{
 #include "Event/Fighter Unarmed Installer.event"
 }
 {
 #include "Event/FFighter Axe Installer.event"
+}
+{
 #include "Event/FFighter Handaxe Installer.event"
+}
+{
 #include "Event/FFighter Unarmed Installer.event"
 }
 {
 #include "Event/Warrior Axe Installer.event"
+}
+{
 #include "Event/Warrior Handaxe Installer.event"
+}
+{
 #include "Event/Warrior Bow Installer.event"
+}
+{
 #include "Event/Warrior Unarmed Installer.event"
 }
 {
 #include "Event/FWarrior Axe Installer.event"
+}
+{
 #include "Event/FWarrior Handaxe Installer.event"
+}
+{
 #include "Event/FWarrior Bow Installer.event"
+}
+{
 #include "Event/FWarrior Unarmed Installer.event"
 }
 {
 #include "Event/Brigand Axe Installer.event"
+}
+{
 #include "Event/Brigand Handaxe Installer.event"
+}
+{
 #include "Event/Brigand Unarmed Installer.event"
 }
 {
 #include "Event/Pirate Axe Installer.event"
+}
+{
 #include "Event/Pirate Handaxe Installer.event"
+}
+{
 #include "Event/Pirate Unarmed Installer.event"
 }
 {
 #include "Event/Corsair Sword Installer.event"
+}
+{
 #include "Event/Corsair Axe Installer.event"
+}
+{
 #include "Event/Corsair Handaxe Installer.event"
+}
+{
 #include "Event/Corsair Unarmed Installer.event"
 }
 {
@@ -200,10 +350,14 @@
 }
 {
 #include "Event/Sage Anima Installer.event"
+}
+{
 #include "Event/Sage Staff Installer.event"
 }
 {
 #include "Event/FSage Anima Installer.event"
+}
+{
 #include "Event/FSage Staff Installer.event"
 }
 {
@@ -214,10 +368,14 @@
 }
 {
 #include "Event/Sorcerer Dark Installer.event"
+}
+{
 #include "Event/Sorcerer Staff Installer.event"
 }
 {
 #include "Event/FSorcerer Dark Installer.event"
+}
+{
 #include "Event/FSorcerer Staff Installer.event"
 }
 {
@@ -225,20 +383,30 @@
 }
 {
 #include "Event/Saint Staff Installer.event"
+}
+{
 #include "Event/Saint Unarmed Installer.event"
 }
 #include "Event/Cleric Staff Installer.event"
+}
+{
 #include "Event/Cleric Unarmed Installer.event"
 {
 #include "Event/Priest Staff Installer.event"
+}
+{
 #include "Event/Priest Unarmed Installer.event"
 }
 {
 #include "Event/Trobairitz Staff Installer.event"
+}
+{
 #include "Event/Trobairitz Unarmed Installer.event"
 }
 {
 #include "Event/Troubadour Staff Installer.event"
+}
+{
 #include "Event/Troubadour Unarmed Installer.event"
 }
 {
@@ -249,24 +417,44 @@
 }
 {
 #include "Event/Peg Sword Installer.event"
+}
+{
 #include "Event/Peg Lance Installer.event"
+}
+{
 #include "Event/Peg Unarmed Installer.event"
 }
 {
 #include "Event/Seraph Sword Installer.event"
+}
+{
 #include "Event/Seraph Lance Installer.event"
+}
+{
 #include "Event/Seraph Unarmed Installer.event"
 }
 {
 #include "Event/Wyvern Lance Installer.event"
+}
+{
 #include "Event/Wyvern Axe Installer.event"
+}
+{
 #include "Event/Wyvern Handaxe Installer.event"
+}
+{
 #include "Event/Wyvern Unarmed Installer.event"
 }
 {
 #include "Event/Dragoon Lance Installer.event"
+}
+{
 #include "Event/Dragoon Axe Installer.event"
+}
+{
 #include "Event/Dragoon Handaxe Installer.event"
+}
+{
 #include "Event/Dragoon Unarmed Installer.event"
 }
 
