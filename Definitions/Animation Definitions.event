@@ -75,7 +75,7 @@
 
 #define HalberdierLanceAnim 0x25
 #define HalberdierAxeAnim 0x26
-#define HalberdierHandAnim 0x27
+#define HalberdierHandaxeAnim 0x27
 #define HalberdierUnarmedAnim 0x28
 
 #define DeserterLanceAnim 0x29
@@ -240,8 +240,427 @@
 #define DragoonHandaxeAnim 0x9a
 #define DragoonUnarmedAnim 0x9b
 
-// ALIGN 4
-// SandersAnims:
-// SwordAnim(SandersSwordAnim)
-// UnarmedAnim(SandersUnarmedAnim)
-// EndAnim
+ALIGN 4
+PrinceAnims:
+SwordAnim(PrinceSwordAnim)
+LanceAnim(PrinceLanceAnim)
+UnarmedAnim(PrinceUnarmedAnim)
+EndAnim
+
+ALIGN 4
+HuntressAnims:
+BowAnim(HuntressBowAnim)
+UnarmedAnim(HuntressUnarmedAnim)
+EndAnim
+
+ALIGN 4
+LordKnightAnims:
+SwordAnim(LordKnightSwordAnim)
+LanceAnim(LordKnightLanceAnim)
+UnarmedAnim(LordKnightUnarmedAnim)
+EndAnim
+
+ALIGN 4
+LadyKnightAnims:
+SwordAnim(LadyKnightSwordAnim)
+BowAnim(LadyKnightBowAnim)
+UnarmedAnim{LadyKnightUnarmedAnim)
+EndAnim
+
+ALIGN 4
+ArcherAnims:
+BowAnim(ArcherBowAnim)
+UnarmedAnim(ArcherUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FArcherAnims:
+BowAnim(FArcherBowAnim)
+UnarmedAnim(FArcherUnarmedAnim)
+EndAnim
+
+ALIGN 4
+SniperAnims:
+BowAnim(SniperBowAnim)
+UnarmedAnim(SniperUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FSniperAnims:
+BowAnim(FSniperBowAnim)
+UnarmedAnim(FSniperUnarmedAnim)
+EndAnim
+
+ALIGN 4
+SwordCavAnims:
+SwordAnim(CavSwordAnim)
+UnarmedAnim(CavUnarmedAnim)
+EndAnim
+
+ALIGN 4
+LanceCavAnims:
+LanceAnim(CavLanceAnim)
+UnarmedAnim(CavUnarmedAnim)
+EndAnim
+
+ALIGN 4
+AxeCavAnims:
+AxeAnim(CavAxeAnim)
+HandAxeAnim(CavHandaxeAnim)
+UnarmedAnim(CavUnarmedAnim)
+EndAnim
+
+ALIGN 4
+DukeKnightAnims:
+SwordAnim(DukeKnightSwordAnim)
+LanceAnim(DukeKnightLanceAnim)
+UnarmedAnim(DukeKnightUnarmedAnim)
+EndAnim
+
+ALIGN 4
+ForrestKnightAnims:
+SwordAnim(ForrestKnightSwordAnim)
+BowAnim(ForrestKnightBowAnim)
+UnarmedAnim(ForrestKnightUnarmedAnim)
+EndAnim
+
+ALIGN 4
+RookKnightAnims:
+LanceAnim(RookKnightLanceAnim)
+AxeAnim(RookKnightAxeAnim)
+HandAxeAnim(RookKnightHandaxeAnim)
+EndAnim
+
+ALIGN 4
+SoldierAnims:
+LanceAnim(SoldierLanceAnim)
+UnarmedAnim(SoldierUnarmedAnim)
+EndAnim
+
+ALIGN 4
+HalberdierAnims:
+LanceAnim(HalberdierLanceAnim)
+AxeAnim(HalberdierAxeAnim)
+HandAxeAnim(HalberdierHandaxeAnim)
+EndAnim
+
+ALIGN 4 
+DeserterAnims:
+LanceAnim(DeserterLanceAnim)
+UnarmedAnim(DeserterUnarmedAnim)
+EndAnim
+
+ALIGN 4
+SkirmisherAnims:
+SwordAnim(SkirmisherSwordAnim)
+LanceAnim(SkirmisherLanceAnim)
+UnarmedAnim(SkirmisherUnarmedAnim)
+EndAnim
+
+ALIGN 4
+MercenaryAnims:
+SwordAnim(MercenarySwordAnim)
+UnarmedAnim(MercenaryUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FMercenaryAnims:
+SwordAnim(FMercenarySwordAnim)
+UnarmedAnim(FMercenaryUnarmedAnim)
+EndAnim
+
+ALIGN 4
+ChampionAnims:
+SwordAnim(ChampionSwordAnim)
+AxeAnim(ChampionAxeAnim)
+HandAxeAnim(ChampionHandaxeAnim)
+EndAnim
+
+ALIGN 4
+FChampionAnims:
+SwordAnim(FChampionSwordAnim)
+AxeAnim(FChampionAxeAnim)
+HandAxeAnim(FChampionHandaxeAnim)
+EndAnim
+
+ALIGN 4
+MyrmidonAnims:
+SwordAnim(MyrmidonSwordAnim)
+UnarmedAnim(MyrmidonUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FMyrmidonAnims:
+SwordAnim(FMyrmidonSwordAnim)
+UnarmedAnim(FMyrmidonUnarmedAnim)
+EndAnim
+
+ALIGN 4
+DreadFighterAnims:
+SwordAnim(DreadFighterSwordAnim)
+UnarmedAnim(DreadFighterUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FDreadFighterAnims:
+SwordAnim(FDreadFighterSwordAnim)
+UnarmedAnim(FDreadFighterUnarmedAnim)
+EndAnim
+
+ALIGN 4
+OutlawAnims:
+BowAnim(OutlawBowAnim)
+UnarmedAnim(OutlawUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FOutlawAnims:
+BowAnim(FOutlawBowAnim)
+UnarmedAnim(FOutlawUnarmedAnim)
+EndAnim
+
+ALIGN 4
+HighwaymanAnims:
+BowAnim(HighwaymanBowAnim)
+UnarmedAnim(HighwaymanUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FHighwaymanAnims:
+BowAnim(FHighwaymanBowAnim)
+UnarmedAnim(FHighwaymanUnarmedAnim)
+EndAnim
+
+ALIGN 4
+ArmorKnightAnims:
+SwordAnim(ArmorKnightSwordAnim)
+LanceAnim(ArmorKnightLanceAnim)
+AxeAnim(ArmorKnightAxeAnim)
+HandAxeAnim(ArmorKnightHandaxeAnim)
+UnarmedAnim(ArmorKnightUnarmedAnim)
+EndAnim
+
+ALIGN 4
+GeneralAnims:
+SwordAnim(GeneralSwordAnim)
+LanceAnim(GeneralLanceAnim)
+AxeAnim(GeneralAxeAnim)
+HandAxeAnim(GeneralHandaxeAnim)
+BowAnim(GeneralBowAnim)
+EndAnim
+
+ALIGN 4
+ThiefAnims:
+SwordAnim(ThiefSwordAnim)
+UnarmedAnim(ThiefUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FThiefAnims:
+SwordAnim(FThiefSwordAnim)
+UnarmedAnim(FThiefUnarmedAnim)
+EndAnim
+
+ALIGN 4
+RogueAnims:
+SwordAnim(RogueSwordAnim)
+UnarmedAnim(RogueUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FRogueAnims:
+SwordAnim(FRogueSwordAnim)
+UnarmedAnim(FRogueUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FighterAnims:
+AxeAnim(FighterAxeAnim)
+HandAxeAnim(FighterHandaxeAnim)
+UnarmedAnim(FighterUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FFighterAnims:
+AxeAnim(FFighterAxeAnim)
+HandAxeAnim(FFighterHandaxeAnim)
+UnarmedAnim(FFighterUnarmedAnim)
+EndAnim
+
+ALIGN 4
+WarriorAnims:
+AxeAnim(WarriorAxeAnim)
+HandAxeAnim(WarriorHandaxeAnim)
+BowAnim(WarriorBowAnim)
+UnarmedAnim(WarriorUnarmedAnim)
+EndAnim
+
+ALIGN 4
+FWarriorAnims:
+AxeAnim(FWarriorAxeAnim)
+HandAxeAnim(FWarriorHandaxeAnim)
+BowAnim(FWarriorBowAnim)
+UnarmedAnim(FWarriorUnarmedAnim)
+EndAnim
+
+ALIGN 4
+BrigandAnims:
+AxeAnim(BrigandAxeAnim)
+HandAxeAnim(BrigandHandaxeAnim)
+UnarmedAnim(BrigandUnarmedAnim)
+EndAnim
+
+ALIGN 4
+PirateAnims:
+AxeAnim(PirateAxeAnim)
+HandAxeAnim(PirateHandaxeAnim)
+UnarmedAnim(PirateUnarmedAnim)
+EndAnim
+
+ALIGN 4
+CorsairAnims:
+SwordAnim(CorsairSwordAnim)
+AxeAnim(CorsairAxeAnim)
+HandAxeAnim(CorsairHandaxeAnim)
+UnarmedAnim(CorsairUnarmedAnim)
+EndAnim
+
+ALIGN 4
+MageAnims:
+AnimaAnim(MageAnimaAnim)
+EndAnim
+
+ALIGN 4
+FMageAnims:
+AnimaAnim(FMageAnimaAnim)
+EndAnim
+
+ALIGN 4
+SageAnims:
+AnimaAnim(SageAnimaAnim)
+StaffAnim(SageStaffAnim)
+EndAnim
+
+ALIGN 4
+FSageAnims:
+AnimaAnim(FSageAnimaAnim)
+StaffAnim(FSageStaffAnim)
+EndAnim
+
+ALIGN 4
+ShamanAnims:
+DarkAnim(ShamanDarkAnim)
+EndAnim
+
+ALIGN 4
+FShamanAnims:
+DarkAnim(FShamanDarkAnim)
+EndAnim
+
+ALIGN 4
+SorcererAnims:
+DarkAnim(SorcererDarkAnim)
+StaffAnim(SorcererStaffAnim)
+EndAnim
+
+ALIGN 4
+FSorcererAnims:
+DarkAnim(FSorcererDarkAnim)
+StaffAnim(FSorcererStaffAnim)
+EndAnim
+
+ALIGN 4
+MonkAnims:
+LightAnim(MonkLightAnim)
+EndAnim
+
+ALIGN 4
+SaintAnims:
+StaffAnim(SaintStaffAnim)
+LightAnim(SaintStaffAnim)
+UnarmedAnim(SaintUnarmedAnim)
+EndAnim
+
+ALIGN 4
+ClericAnims:
+StaffAnim(ClericStaffAnim)
+UnarmedAnim(ClericUnarmedAnim)
+EndAnim
+
+ALIGN 4
+PriestAnims:
+StaffAnim(PriestStaffAnim)
+UnarmedAnim(PriestUnarmedAnim)
+EndAnim
+
+ALIGN 4
+TrobaritzAnims:
+StaffAnim(TrobairitzStaffAnim)
+UnarmedAnim(TrobairitzUnarmedAnim)
+EndAnim
+
+ALIGN 4
+TroubadourAnims:
+StaffAnim(TroubadourStaffAnim)
+UnarmedAnim(TroubadourUnarmedAnim)
+EndAnim
+
+ALIGN 4
+HuntingDogAnims:
+MonsterAnim(HuntingDogAnim)
+EndAnim
+
+ALIGN 4
+WarDogAnims:
+MonsterAnim(WarDogAnim)
+EndAnim
+
+ALIGN 4
+SwordPegAnims:
+SwordAnim(PegSwordAnim)
+UnarmedAnim(PegUnarmedAnim)
+EndAnim
+
+ALIGN 4
+LancePegAnims:
+LanceAnim(LancePegAnim)
+UnarmedAnim(PegUnarmedAnim)
+EndAnim
+
+ALIGN 4
+SwordSeraphAnims:
+SwordAnim(SeraphSwordAnim)
+UnarmedAnim(SeraphUnarmedAnim)
+EndAnim
+
+ALIGN 4
+LanceSeraphAnims:
+LanceAnim(SeraphLanceAnim)
+UnarmedAnim(SaintUnarmedAnim)
+EndAnim
+
+ALIGN 4
+LanceWyvernAnims:
+LanceAnim(WyvernLanceAnim)
+UnarmedAnim(WyvernUnarmedAnim)
+EndAnim
+
+ALIGN 4
+AxeWyvernAnims:
+AxeAnim(WyvernAxeAnim)
+HandAxeAnim(WyvernHandaxeAnim)
+UnarmedAnim(WyvernUnarmedAnim)
+EndAnim
+
+ALIGN 4
+LanceDragoonAnims:
+LanceAnim(DragoonLanceAnim)
+UnarmedAnim(DragoonUnarmedAnim)
+EndAnim
+
+ALIGN 4
+AxeDragoonAnims:
+AxeAnim(DragoonAxeAnim)
+HandAxeAnim(DragoonHandaxeAnim)
+UnarmedAnim(DragoonUnarmedAnim)
+EndAnim
