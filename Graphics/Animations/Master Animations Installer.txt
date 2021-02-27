@@ -206,9 +206,20 @@
 #include "Event/FSage Anima Installer.event"
 #include "Event/FSage Staff Installer.event"
 }
-
-
-
+{
+#include "Event/Shaman Dark Installer.event"
+}
+{
+#include "Event/FShaman Dark Installer.event"
+}
+{
+#include "Event/Sorcerer Dark Installer.event"
+#include "Event/Sorcerer Staff Installer.event"
+}
+{
+#include "Event/FSorcerer Dark Installer.event"
+#include "Event/FSorcerer Staff Installer.event"
+}
 
 
 
