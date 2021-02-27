@@ -60,6 +60,18 @@ Improved Soldier 2.0: Alusq
 
 Halberdier 2.0: TBA, Spud, MeatofJustice
 
+Mathew and Leila Repalette: Eldritch Abomination
+
+Rogue Repalette (Male and Female): Pikmin1211, Maiser6, Ukelele, SD9k, Temp, Black Mage, Wan, Orihara_Saki, ltranc
+
+Female Fighter Long Hair: Black Mage
+
+Bartre Style Fighter: Jey the Count 
+
+Warrior Repalette: Pushwall
+
+Female Warrior Repalette: Temp, Pushwall
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1

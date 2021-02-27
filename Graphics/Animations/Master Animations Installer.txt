@@ -139,19 +139,43 @@
 #include "Event/General Bow Installer.event"
 #include "Event/General Unarmed Installer.event"
 {
-
-
-
-
-
-
-
-
-
-
-
-
-
+#include "Event/Thief Sword Installer.event"
+#include "Event/Thief Unarmed Installer.event"
+}
+{
+#include "Event/FThief Sword Installer.event"
+#include "Event/FThief Unarmed Installer.event"
+}
+{
+#include "Event/Rogue Sword Installer.event"
+#include "Event/Rogue Unarmed Installer.event"
+}
+{
+#include "Event/FRogue Sword Installer.event"
+#include "Event/FRogue Unarmed Installer.event"
+}
+{
+#include "Event/Fighter Axe Installer.event"
+#include "Event/Fighter Handaxe Installer.event"
+#include "Event/Fighter Unarmed Installer.event"
+}
+{
+#include "Event/FFighter Axe Installer.event"
+#include "Event/FFighter Handaxe Installer.event"
+#include "Event/FFighter Unarmed Installer.event"
+}
+{
+#include "Event/Warrior Axe Installer.event"
+#include "Event/Warrior Handaxe Installer.event"
+#include "Event/Warrior Bow Installer.event"
+#include "Event/Warrior Unarmed Installer.event"
+}
+{
+#include "Event/FWarrior Axe Installer.event"
+#include "Event/FWarrior Handaxe Installer.event"
+#include "Event/FWarrior Bow Installer.event"
+#include "Event/FWarrior Unarmed Installer.event"
+}
 
 
 
