@@ -168,6 +168,7 @@
 }
 {
 #include "Event/FChampion Unarmed Installer.event"
+}
 {
 #include "Event/Myrmidon Sword Installer.event"
 }
