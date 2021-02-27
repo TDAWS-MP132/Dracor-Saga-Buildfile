@@ -4,7 +4,6 @@
 // Pik's Custom Library
 #include "Pik Library/PList Definitions.event"
 #include "Pik Library/Tileset Definitions.event"
-#include "Pik Library/Class Animation Definitions.event"
 
 //A tool that may help us later...
 // #include "_IER_CSV_Definitions.event"
