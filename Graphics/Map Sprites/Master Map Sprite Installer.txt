@@ -422,8 +422,98 @@ ALIGN 4
 RookKnightWalk:
 #incbin "Dmp/Rook Knight Walk.dmp"
 
+ALIGN 4
+SwordPegStand:
+#incbin "Dmp/Sword Peg Stand.dmp"
 
+ALIGN 4
+SwordPegWalk:
+#incbin "Dmp/Sword Peg Walk.dmp"
 
+ALIGN 4
+LancePegStand:
+#incbin "Dmp/Lance Peg Stand.dmp"
 
+ALIGN 4
+LancePegWalk:
+#incbin "Dmp/Lance Peg Walk.dmp"
 
+ALIGN 4
+SwordSeraphStand:
+#incbin "Dmp/Seraph Stand.dmp"
 
+ALIGN 4
+SwordSeraphWalk:
+#incbin "Dmp/Seraph Walk.dmp"
+
+ALIGN 4
+LanceSeraphStand:
+#incbin "Dmp/Seraph Stand.dmp"
+
+ALIGN 4
+LanceSeraphWalk:
+#incbin "Dmp/Seraph Walk.dmp"
+
+ALIGN 4
+LanceWyvernStand:
+#incbin "Dmp/Lance Wyvern Stand.dmp"
+
+ALIGN 4
+LanceWyvernWalk:
+#incbin "Dmp/Lance Wyvern Walk.dmp"
+
+ALIGN 4
+AxeWyvernStand:
+#incbin "Dmp/Axe Wyvern Stand.dmp"
+
+ALIGN 4
+AxeWyvernWalk:
+#incbin "Dmp/Axe Wyvern Walk.dmp"
+
+ALIGN 4
+LanceDragoonStand:
+#incbin "Dmp/Lance Dragoon Stand.dmp"
+
+ALIGN 4
+LanceDragoonWalk:
+#incbin "Dmp/Lance Dragoon Walk.dmp"
+
+ALIGN 4
+AxeDragoonStand:
+#incbin "Dmp/Axe Dragoon Stand.dmp"
+
+ALIGN 4
+AxeDragoonWalk:
+#incbin "Dmp/Axe Dragoon Walk.dmp"
+
+ALIGN 4
+HuntingDogStand:
+#incbin "Dmp/Dog Stand.dmp"
+
+ALIGN 4
+HuntingDogWalk:
+#incbin "Dmp/Dog Walk.dmp"
+
+ALIGN 4
+WarDogStand:
+#incbin "Dmp/Dog Stand.dmp"
+
+ALIGN 4
+WarDogWalk:
+#incbin "Dmp/Dog Walk.dmp"
+
+ALIGN 4
+HighwayManStand:
+#incbin "Dmp/Highwayman Stand"
+
+ALIGN 4
+HighwayManWalk:
+#incbin "Dmp/Highwayman Walk"
+
+ALIGN 4
+FHighwayManStand:
+#incbin "Dmp/Highwayman Stand"
+
+ALIGN 4
+FHighwayManWalk:
+#incbin "Dmp/Highwayman Walk"

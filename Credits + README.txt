@@ -144,6 +144,20 @@ Great Knight Alt Map Sprites: Pikmin1211, L95, DerTheVaporeon
 
 Bow Knight Map Sprites: Flasuban
 
+MautheDoog Resize: Pikmin1211
+
+Peg Knight Edit Map Sprites: Flasuban
+
+Sword Peg Knight Map Sprites: Sephie
+
+Axe and Lance Wyvern Map Sprites: Flasuban
+
+Falcoknight Lance Revision Map Sprites: Flasuban
+
+Wyvern Knight Axe Map Sprites: ArcaneEli, Blood, Yikes!
+
+Wyvern Lord Lance Map Sprites: SHYUTER
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1
