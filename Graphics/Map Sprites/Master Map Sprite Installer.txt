@@ -503,17 +503,17 @@ WarDogWalk:
 #incbin "Dmp/Dog Walk.dmp"
 
 ALIGN 4
-HighwayManStand:
+HighwaymanStand:
 #incbin "Dmp/Highwayman Stand.dmp"
 
 ALIGN 4
-HighwayManWalk:
+HighwaymanWalk:
 #incbin "Dmp/Highwayman Walk.dmp"
 
 ALIGN 4
-FHighwayManStand:
+FHighwaymanStand:
 #incbin "Dmp/Highwayman Stand.dmp"
 
 ALIGN 4
-FHighwayManWalk:
+FHighwaymanWalk:
 #incbin "Dmp/Highwayman Walk.dmp"
