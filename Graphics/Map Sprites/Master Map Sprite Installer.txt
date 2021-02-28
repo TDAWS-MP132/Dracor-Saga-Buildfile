@@ -23,6 +23,14 @@ LordKnightWalk:
 #incbin "Dmp/Lord Knight Walk.dmp"
 
 ALIGN 4
+LadyKnightStand:
+#incbin "Dmp/Lady Knight Stand.dmp"
+
+ALIGN 4
+LadyKnightWalk:
+#incbin "Dmp/Lady Knight Walk.dmp"
+
+ALIGN 4
 LanceCavStand:
 #incbin "Dmp/Lance Cav Stand.dmp"
 
@@ -373,6 +381,46 @@ TroubadourStand:
 ALIGN 4
 TroubadourWalk:
 #incbin "Dmp/Troubadour Walk.dmp"
+
+ALIGN 4
+ArmorKnightStand:
+#incbin "Dmp/Armor Knight Stand.dmp"
+
+ALIGN 4
+ArmorKnightWalk:
+#incbin "Dmp/Armor Knight Walk.dmp"
+
+ALIGN 4
+GeneralStand:
+#incbin "Dmp/General Stand.dmp"
+
+ALIGN 4
+GeneralWalk:
+#incbin "Dmp/General Walk.dmp"
+
+ALIGN 4
+DukeKnightStand:
+#incbin "Dmp/Duke Knight Stand.dmp"
+
+ALIGN 4
+DukeKnightWalk:
+#incbin "Dmp/Duke Knight Walk.dmp"
+
+ALIGN 4
+ForrestKnightStand:
+#incbin "Dmp/Forrest Knight Stand.dmp"
+
+ALIGN 4
+ForrestKnightWalk:
+#incbin "Dmp/Forrest Knight Walk.dmp"
+
+ALIGN 4
+RookKnightStand:
+#incbin "Dmp/Rook Knight Stand.dmp"
+
+ALIGN 4
+RookKnightWalk:
+#incbin "Dmp/Rook Knight Walk.dmp"
 
 
 

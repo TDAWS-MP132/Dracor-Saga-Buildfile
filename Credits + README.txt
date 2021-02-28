@@ -96,7 +96,7 @@ Falcoknight Improved + Weapons: Flasuban, Nuramon, Knabepicer
 
 Pegasus Knight + Sword: MageKnight404, MakeFEGayer
 
-Cavalier Map Sprites: Team SALVAGED
+Team SALVAGED: Cavalier Map Sprites, Armor Knight Map Sprites
 
 F and M Archer Improved Map Sprites: DerTheVaporeon
 
@@ -137,6 +137,12 @@ FE 4 Style Thunder Idle Map Sprites: Ash3lw, L95, Dominus, Vobiscum
 Better Female Sage Map Sprites: Shtick, L95
 
 M and F Valkyrie Non Religious Map Sprites: DerTheVaporeon
+
+Gold Knight Map Sprites: Hypergammaspaces
+
+Great Knight Alt Map Sprites: Pikmin1211, L95, DerTheVaporeon
+
+Bow Knight Map Sprites: Flasuban
 
 //Maps & Tilesets:
 
