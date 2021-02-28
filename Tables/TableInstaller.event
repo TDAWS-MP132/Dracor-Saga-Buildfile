@@ -38,6 +38,10 @@
 
 #include "NightmareModules\Items\WeaponLockArray.event"
 
+#include "NightmareModules\Map Sprite Editors\Misc map sprite editor.event"
+
+#include "NightmareModules\Map Sprite Editors\Standing map sprite editor.event"
+
 #include "NightmareModules\Misc\BiorhythmEditor.event"
 
 #include "NightmareModules\Misc\EscapeQuoteEditor.event"

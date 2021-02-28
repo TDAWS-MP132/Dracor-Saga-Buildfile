@@ -199,20 +199,20 @@ FRogueWalk:
 #incbin "Dmp/FRogue Walk.dmp"
 
 ALIGN 4
-HeroStand:
-#incbin "Dmp/Hero Stand.dmp"
+ChampionStand:
+#incbin "Dmp/Champion Stand.dmp"
 
 ALIGN 4
-HeroWalk:
-#incbin "Dmp/Hero Walk.dmp"
+ChampionWalk:
+#incbin "Dmp/Champion Walk.dmp"
 
 ALIGN 4
-FHeroStand:
-#incbin "Dmp/FHero Stand.dmp"
+FChampionStand:
+#incbin "Dmp/FChampion Stand.dmp"
 
 ALIGN 4
-FHeroWalk:
-#incbin "Dmp/FHero Walk.dmp"
+FChampionWalk:
+#incbin "Dmp/FChampion Walk.dmp"
 
 ALIGN 4
 HalberdierStand:
@@ -504,16 +504,16 @@ WarDogWalk:
 
 ALIGN 4
 HighwayManStand:
-#incbin "Dmp/Highwayman Stand"
+#incbin "Dmp/Highwayman Stand.dmp"
 
 ALIGN 4
 HighwayManWalk:
-#incbin "Dmp/Highwayman Walk"
+#incbin "Dmp/Highwayman Walk.dmp"
 
 ALIGN 4
 FHighwayManStand:
-#incbin "Dmp/Highwayman Stand"
+#incbin "Dmp/Highwayman Stand.dmp"
 
 ALIGN 4
 FHighwayManWalk:
-#incbin "Dmp/Highwayman Walk"
+#incbin "Dmp/Highwayman Walk.dmp"
