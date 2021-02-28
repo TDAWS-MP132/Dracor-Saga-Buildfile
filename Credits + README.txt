@@ -1,7 +1,7 @@
 //Dracor Saga 992: Apostate Prince of the Golden Realm
 An FE8U Hackrom by TDAWS
 
-# Credits
+Credits:
 //Mugs
 
 RandomWizard: Folke Mug, Chief Mug, Adelhard Mug, Touchups on Dobromik Mug
@@ -97,6 +97,24 @@ Falcoknight Improved + Weapons: Flasuban, Nuramon, Knabepicer
 Pegasus Knight + Sword: MageKnight404, MakeFEGayer
 
 Cavalier Map Sprites: Team SALVAGED
+
+F and M Archer Improved Map Sprites: DerTheVaporeon
+
+FE 14 Style Thief Map Sprites: Rasdel
+
+Hunter (F) Map Sprites: MeatofJustice
+
+F Fighter and M Fighter Revamped Map Sprites: Alusq
+
+Pirate Map Sprites: DerTheVaporeon
+
+Brigand Improved Map Sprites: Flasuban
+
+Deserter Map Sprites: Alusq
+
+Echoes Soldier Map Sprites: FireEmblemier, Flasuban
+
+Improved Mercenary Map Sprites: Flasuban
 
 //Maps & Tilesets:
 

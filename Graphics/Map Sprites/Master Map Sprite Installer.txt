@@ -7,6 +7,14 @@ PrinceWalk:
 #incbin "Dmp/Prince Walk.dmp"
 
 ALIGN 4
+HuntressStand:
+#incbin "Dmp/Huntress Stand.dmp"
+
+ALIGN 4
+HuntressWalk:
+#incbin "Dmp/Huntress Walk.dmp"
+
+ALIGN 4
 LordKnightStand:
 #incbin "Dmp/Lord Knight Stand.dmp"
 
@@ -37,3 +45,59 @@ AxeCavStand:
 ALIGN 4
 AxeCavWalk:
 #incbin "Dmp/Axe Cav Walk.dmp"
+
+ALIGN 4
+ArcherStand:
+#incbin "Dmp/Archer Stand.dmp"
+
+ALIGN 4
+ArcherWalk:
+#incbin "Dmp/Archer Walk.dmp"
+
+ALIGN 4
+FArcherStand:
+#incbin "Dmp/FArcher Stand.dmp"
+
+ALIGN 4
+FArcherWalk:
+#incbin "Dmp/FArcher Walk.dmp"
+
+ALIGN 4
+OutlawStand:
+#incbin "Dmp/Outlaw Stand.dmp"
+
+ALIGN 4
+OutlawWalk:
+#incbin "Dmp/Outlaw Walk.dmp"
+
+ALIGN 4
+ThiefStand:
+#incbin "Dmp/Thief Stand.dmp"
+
+ALIGN 4
+ThiefWalk:
+#incbin "Dmp/Thief Walk.dmp"
+
+ALIGN 4
+MyrmidonStand:
+#incbin "Dmp/Myrmidon Stand.dmp"
+
+ALIGN 4
+MyrmidonWalk:
+#incbin "Dmp/Myrmidon Walk.dmp"
+
+ALIGN 4
+FMyrmidonStand:
+#incbin "Dmp/FMyrmidon Stand.dmp"
+
+ALIGN 4
+FMyrmidonWalk:
+#incbin "Dmp/FMyrmidon Walk.dmp"
+
+
+
+
+
+
+
+
