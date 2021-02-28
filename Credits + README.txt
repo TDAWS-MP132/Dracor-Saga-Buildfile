@@ -96,6 +96,8 @@ Falcoknight Improved + Weapons: Flasuban, Nuramon, Knabepicer
 
 Pegasus Knight + Sword: MageKnight404, MakeFEGayer
 
+Cavalier Map Sprites: Team SALVAGED
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1

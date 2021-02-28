@@ -1,0 +1,39 @@
+ALIGN 4
+PrinceStand:
+#incbin "Dmp/Prince Stand.dmp"
+
+ALIGN 4
+PrinceWalk:
+#incbin "Dmp/Prince Walk.dmp"
+
+ALIGN 4
+LordKnightStand:
+#incbin "Dmp/Lord Knight Stand.dmp"
+
+ALIGN 4
+LordKnightWalk:
+#incbin "Dmp/Lord Knight Walk.dmp"
+
+ALIGN 4
+LanceCavStand:
+#incbin "Dmp/Lance Cav Stand.dmp"
+
+ALIGN 4
+LanceCavWalk:
+#incbin "Dmp/Lance Cav Walk.dmp"
+
+ALIGN 4
+SwordCavStand:
+#incbin "Dmp/Sword Cav Stand.dmp"
+
+ALIGN 4
+SwordCavWalk:
+#incbin "Dmp/Sword Cav Walk.dmp"
+
+ALIGN 4
+AxeCavStand:
+#incbin "Dmp/Axe Cav Stand.dmp"
+
+ALIGN 4
+AxeCavWalk:
+#incbin "Dmp/Axe Cav Walk.dmp"
