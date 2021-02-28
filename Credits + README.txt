@@ -116,6 +116,16 @@ Echoes Soldier Map Sprites: FireEmblemier, Flasuban
 
 Improved Mercenary Map Sprites: Flasuban
 
+Female Warrior Map Sprites: FEGirls
+
+Halberdier Map Sprites: TBA
+
+Spartan Map Sprites: DerTheVaporeon
+
+F and M Hero Blue Shield Edit Map Sprites: Pikmin1211, Pushwall
+
+Dread Fighter Map Sprites: Nuramon
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1

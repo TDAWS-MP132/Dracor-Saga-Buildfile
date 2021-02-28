@@ -158,6 +158,52 @@ ALIGN 4
 FFighterWalk:
 #incbin "Dmp/FFighter Walk.dmp"
 
+ALIGN 4
+DreadFighterStand:
+#incbin "Dmp/Dread Fighter Stand.dmp"
+
+ALIGN 4
+DreadFighterWalk:
+#incbin "Dmp/Dread Fighter Walk.dmp"
+
+ALIGN 4
+FDreadFighterStand:
+#incbin "Dmp/FDread Fighter Stand.dmp"
+
+ALIGN 4
+FDreadFighterWalk:
+#incbin "Dmp/FDread Fighter Walk.dmp"
+
+ALIGN 4
+RogueStand:
+#incbin "Dmp/Rogue Stand.dmp"
+
+ALIGN 4
+RogueWalk:
+#incbin "Dmp/Rogue Walk.dmp"
+
+ALIGN 4
+FRogueStand:
+#incbin "Dmp/FRogue Stand.dmp"
+
+ALIGN 4
+FRogueWalk:
+#incbin "Dmp/FRogue Walk.dmp"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
