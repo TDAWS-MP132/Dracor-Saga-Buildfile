@@ -262,6 +262,118 @@ ALIGN 4
 CorsairWalk:
 #incbin "Dmp/Corsair Walk.dmp"
 
+ALIGN 4
+ClericStand:
+#incbin "Dmp/Cleric Stand.dmp"
+
+ALIGN 4
+ClericWalk:
+#incbin "Dmp/Cleric Walk.dmp"
+
+ALIGN 4
+PriestStand:
+#incbin "Dmp/Priest Stand.dmp"
+
+ALIGN 4
+PriestWalk:
+#incbin "Dmp/Priest Walk.dmp"
+
+ALIGN 4
+MageStand:
+#incbin "Dmp/Mage Stand.dmp"
+
+ALIGN 4
+MageWalk:
+#incbin "Dmp/Mage Walk.dmp"
+
+ALIGN 4
+FMageStand:
+#incbin "Dmp/FMage Stand.dmp"
+
+ALIGN 4
+FMageWalk:
+#incbin "Dmp/FMage Walk.dmp"
+
+ALIGN 4
+MonkStand:
+#incbin "Dmp/Monk Stand.dmp"
+
+ALIGN 4
+MonkWalk:
+#incbin "Dmp/Monk Walk.dmp"
+
+ALIGN 4
+ShamanStand:
+#incbin "Dmp/Shaman Stand.dmp"
+
+ALIGN 4
+ShamanWalk:
+#incbin "Dmp/Shaman Walk.dmp"
+
+ALIGN 4
+FShamanStand:
+#incbin "Dmp/FShaman Stand.dmp"
+
+ALIGN 4
+FShamanWalk:
+#incbin "Dmp/FShaman Walk.dmp"
+
+ALIGN 4
+SageStand:
+#incbin "Dmp/Sage Stand.dmp"
+
+ALIGN 4
+SageWalk:
+#incbin "Dmp/Sage Walk.dmp"
+
+ALIGN 4
+FSageStand:
+#incbin "Dmp/FSage Stand.dmp"
+
+ALIGN 4
+FSageWalk:
+#incbin "Dmp/FSage Walk.dmp"
+
+ALIGN 4
+SorcererStand:
+#incbin "Dmp/Sorcerer Stand.dmp"
+
+ALIGN 4
+SorcererWalk:
+#incbin "Dmp/Sorcerer Walk.dmp"
+
+ALIGN 4
+FSorcererStand:
+#incbin "Dmp/FSorcerer Stand.dmp"
+
+ALIGN 4
+FSorcererWalk:
+#incbin "Dmp/FSorcerer Walk.dmp"
+
+ALIGN 4
+SaintStand:
+#incbin "Dmp/Saint Stand.dmp"
+
+ALIGN 4
+SaintWalk:
+#incbin "Dmp/Saint Walk.dmp"
+
+ALIGN 4
+TrobairitzStand:
+#incbin "Dmp/Trobairitz Stand.dmp"
+
+ALIGN 4
+TrobairitzWalk:
+#incbin "Dmp/Trobairitz Walk.dmp"
+
+ALIGN 4
+TroubadourStand:
+#incbin "Dmp/Troubadour Stand.dmp"
+
+ALIGN 4
+TroubadourWalk:
+#incbin "Dmp/Troubadour Walk.dmp"
+
 
 
 

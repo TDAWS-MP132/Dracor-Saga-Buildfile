@@ -126,6 +126,18 @@ F and M Hero Blue Shield Edit Map Sprites: Pikmin1211, Pushwall
 
 Dread Fighter Map Sprites: Nuramon
 
+Priest Improved Map Sprites: Flasuban
+
+Awakening Style Cleric Map Sprites: BatimaTheBat
+
+FE 4 Style Wind Idle Map Sprites: Ash3wl, L95
+
+FE 4 Style Thunder Idle Map Sprites: Ash3lw, L95, Dominus, Vobiscum  
+
+Better Female Sage Map Sprites: Shtick, L95
+
+M and F Valkyrie Non Religious Map Sprites: DerTheVaporeon
+
 //Maps & Tilesets:
 
 Pandan: Ch3 Map V1
