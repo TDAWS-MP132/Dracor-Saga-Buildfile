@@ -1,3 +1,5 @@
 #include "Animation Definitions.event"
 
 #include "Animations/Master Animations Installer.txt"
+
+#include "Map Sprites/Master Map Sprite Installer.txt"
