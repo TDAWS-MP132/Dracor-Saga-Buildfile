@@ -1,73 +1,73 @@
 0x9a2e00,Animation pointer,Another pointer
 None,0x0,0x0
-Prince,PrinceWalk,0x0
-Huntress,HuntressWalk,0x0
-Lord Knight,LordKnightWalk,0x0
-Lady Knight,LadyKnightWalk,0x0
-Lance Cav,LanceCavWalk,0x0
-Duke Knight,DukeKnightWalk,0x0
-Sword Cav,SwordCavWalk,0x0
-Forrest Knight,ForrestKnightWalk,0x0
-Axe Cav,AxeCavWalk,0x0
-Rook Knight,RookKnightWalk,0x0
-Armor Knight,ArmorKnightWalk,0x0
-General,GeneralWalk,0x0
-Soldier,SoldierWalk,0x0
-Halberdier,HalberdierWalk,0x0
-Deserter,DeserterWalk,0x0
-Skirmisher,SkirmisherWalk,0x0
-Mercenary,MercenaryWalk,0x0
-Champion,ChampionWalk,0x0
-Myrmidon,MyrmidonWalk,0x0
-Dread Fighter,DreadFighterWalk,0x0
-Thief,ThiefWalk,0x0
-Rogue,RogueWalk,0x0
-Fighter,FighterWalk,0x0
-Warrior,WarriorWalk,0x0
-Brigand,BrigandWalk,0x0
-Pirate,PirateWalk,0x0
-Corsair,CorsairWalk,0x0
-Archer,ArcherWalk,0x0
-Sniper,SniperWalk,0x0
-Outlaw,OutlawWalk,0x0
-Highwayman,HighwaymanWalk,0x0
-Mage,MageWalk,0x0
-Sage,SageWalk,0x0
-Shaman,ShamanWalk,0x0
-Sorcerer,SorcererWalk,0x0
-Monk,MonkWalk,0x0
-Saint,SaintWalk,0x0
-Cleric,ClericWalk,0x0
-Priest,PriestWalk,0x0
-Trobairitz,TrobairitzWalk,0x0
-Troubadour ,TroubadourWalk,0x0
+Prince,PrinceWalk|IsPointer,0x0
+Huntress,HuntressWalk|IsPointer,0x0
+Lord Knight,LordKnightWalk|IsPointer,0x0
+Lady Knight,LadyKnightWalk|IsPointer,0x0
+Lance Cav,LanceCavWalk|IsPointer,0x0
+Duke Knight,DukeKnightWalk|IsPointer,0x0
+Sword Cav,SwordCavWalk|IsPointer,0x0
+Forrest Knight,ForrestKnightWalk|IsPointer,0x0
+Axe Cav,AxeCavWalk|IsPointer,0x0
+Rook Knight,RookKnightWalk|IsPointer,0x0
+Armor Knight,ArmorKnightWalk|IsPointer,0x0
+General,GeneralWalk|IsPointer,0x0
+Soldier,SoldierWalk|IsPointer,0x0
+Halberdier,HalberdierWalk|IsPointer,0x0
+Deserter,DeserterWalk|IsPointer,0x0
+Skirmisher,SkirmisherWalk|IsPointer,0x0
+Mercenary,MercenaryWalk|IsPointer,0x0
+Champion,ChampionWalk|IsPointer,0x0
+Myrmidon,MyrmidonWalk|IsPointer,0x0
+Dread Fighter,DreadFighterWalk|IsPointer,0x0
+Thief,ThiefWalk|IsPointer,0x0
+Rogue,RogueWalk|IsPointer,0x0
+Fighter,FighterWalk|IsPointer,0x0
+Warrior,WarriorWalk|IsPointer,0x0
+Brigand,BrigandWalk|IsPointer,0x0
+Pirate,PirateWalk|IsPointer,0x0
+Corsair,CorsairWalk|IsPointer,0x0
+Archer,ArcherWalk|IsPointer,0x0
+Sniper,SniperWalk|IsPointer,0x0
+Outlaw,OutlawWalk|IsPointer,0x0
+Highwayman,HighwaymanWalk|IsPointer,0x0
+Mage,MageWalk|IsPointer,0x0
+Sage,SageWalk|IsPointer,0x0
+Shaman,ShamanWalk|IsPointer,0x0
+Sorcerer,SorcererWalk|IsPointer,0x0
+Monk,MonkWalk|IsPointer,0x0
+Saint,SaintWalk|IsPointer,0x0
+Cleric,ClericWalk|IsPointer,0x0
+Priest,PriestWalk|IsPointer,0x0
+Trobairitz,TrobairitzWalk|IsPointer,0x0
+Troubadour ,TroubadourWalk|IsPointer,0x0
 Mage Knight,0x0,0x0
-Sword Peg,SwordPegWalk,0x0
-Sword Seraph,SwordSeraphWalk,0x0
-Lance Peg,LancePegWalk,0x0
-Lance Seraph,LanceSeraphWalk,0x0
-Lance Wyvern,LanceWyvernWalk,0x0
-Lance Dragoon,LanceDragoonWalk,0x0
-Axe Wyvern,AxeWyvernWalk,0x0
-Axe Dragoon,AxeDragoonWalk,0x0
-Hunting Dog,HuntingDogWalk,0x0
-War Dog,WarDogWalk,0x0
-Mercenary (F),FMercenaryWalk,0x0
-Champion (F),FChampionWalk,0x0
-Myrmidon (F),FMyrmidonWalk,0x0
-Dread Fighter (F),FDreadFighterWalk,0x0
-Fighter (F),FFighterWalk,0x0
-Warrior (F),FWarriorWalk,0x0
-Archer (F),FArcherWalk,0x0
-Sniper (F),FSniperWalk,0x0
-Thief (F),ThiefWalk,0x0
-Rogue (F),FRogueWalk,0x0
-Outlaw (F),OutlawWalk,0x0
-Highwayman (F),FHighwaymanWalk,0x0
-Mage (F),FMageWalk,0x0
-Sage (F),FSageWalk,0x0
-Shaman (F),FShamanWalk,0x0
-Sorcerer (F),FSorcererWalk,0x0
+Sword Peg,SwordPegWalk|IsPointer,0x0
+Sword Seraph,SwordSeraphWalk|IsPointer,0x0
+Lance Peg,LancePegWalk|IsPointer,0x0
+Lance Seraph,LanceSeraphWalk|IsPointer,0x0
+Lance Wyvern,LanceWyvernWalk|IsPointer,0x0
+Lance Dragoon,LanceDragoonWalk|IsPointer,0x0
+Axe Wyvern,AxeWyvernWalk|IsPointer,0x0
+Axe Dragoon,AxeDragoonWalk|IsPointer,0x0
+Hunting Dog,HuntingDogWalk|IsPointer,0x0
+War Dog,WarDogWalk|IsPointer,0x0
+Mercenary (F),FMercenaryWalk|IsPointer,0x0
+Champion (F),FChampionWalk|IsPointer,0x0
+Myrmidon (F),FMyrmidonWalk|IsPointer,0x0
+Dread Fighter (F),FDreadFighterWalk|IsPointer,0x0
+Fighter (F),FFighterWalk|IsPointer,0x0
+Warrior (F),FWarriorWalk|IsPointer,0x0
+Archer (F),FArcherWalk|IsPointer,0x0
+Sniper (F),FSniperWalk|IsPointer,0x0
+Thief (F),ThiefWalk|IsPointer,0x0
+Rogue (F),FRogueWalk|IsPointer,0x0
+Outlaw (F),OutlawWalk|IsPointer,0x0
+Highwayman (F),FHighwaymanWalk|IsPointer,0x0
+Mage (F),FMageWalk|IsPointer,0x0
+Sage (F),FSageWalk|IsPointer,0x0
+Shaman (F),FShamanWalk|IsPointer,0x0
+Sorcerer (F),FSorcererWalk|IsPointer,0x0
 Empty,0x0,0x0
 Bard,0x0,0x0
 Recruit (1),0x0,0x0
@@ -83,8 +83,8 @@ Fleet,0x0,0x0
 Phantom,0x0,0x0
 Revenant,0x0,0x0
 Entombed,0x0,0x0
-Bonewalker,0x0,0x0
-Bonewalker (Bow),0x0,0x0
+BoneWalk|IsPointerer,0x0,0x0
+BoneWalk|IsPointerer (Bow),0x0,0x0
 Wight,0x0,0x0
 Wight (Bow),0x0,0x0
 Bael,0x0,0x0
