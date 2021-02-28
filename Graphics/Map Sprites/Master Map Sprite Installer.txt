@@ -94,8 +94,69 @@ ALIGN 4
 FMyrmidonWalk:
 #incbin "Dmp/FMyrmidon Walk.dmp"
 
+ALIGN 4
+MercenaryStand:
+#incbin "Dmp/Mercenary Stand.dmp"
 
+ALIGN 4
+MercenaryWalk:
+#incbin "Dmp/Mercenary Walk.dmp"
 
+ALIGN 4
+FMercenaryStand:
+#incbin "Dmp/FMercenary Stand.dmp"
+
+ALIGN 4
+FMercenaryWalk:
+#incbin "Dmp/FMercenary Walk.dmp"
+
+ALIGN 4
+SoldierStand:
+#incbin "Dmp/Soldier Stand.dmp"
+
+ALIGN 4
+SoldierWalk:
+#incbin "Dmp/Soldier Walk.dmp"
+
+ALIGN 4
+DeserterStand:
+#incbin "Dmp/Deserter Stand.dmp"
+
+ALIGN 4
+DeserterWalk:
+#incbin "Dmp/Deserter Walk.dmp"
+
+ALIGN 4
+PirateStand:
+#incbin "Dmp/Pirate Stand.dmp"
+
+ALIGN 4
+PirateWalk:
+#incbin "Dmp/Pirate Walk.dmp"
+
+ALIGN 4
+BrigandStand:
+#incbin "Dmp/Brigand Stand.dmp"
+
+ALIGN 4
+BrigandWalk:
+#incbin "Dmp/Brigand Walk.dmp"
+
+ALIGN 4
+FighterStand:
+#incbin "Dmp/Fighter Stand.dmp"
+
+ALIGN 4
+FighterWalk:
+#incbin "Dmp/Fighter Walk.dmp"
+
+ALIGN 4
+FFighterStand:
+#incbin "Dmp/FFighter Stand.dmp"
+
+ALIGN 4
+FFighterWalk:
+#incbin "Dmp/FFighter Walk.dmp"
 
 
 
