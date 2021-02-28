@@ -190,18 +190,77 @@ ALIGN 4
 FRogueWalk:
 #incbin "Dmp/FRogue Walk.dmp"
 
+ALIGN 4
+HeroStand:
+#incbin "Dmp/Hero Stand.dmp"
 
+ALIGN 4
+HeroWalk:
+#incbin "Dmp/Hero Walk.dmp"
 
+ALIGN 4
+FHeroStand:
+#incbin "Dmp/FHero Stand.dmp"
 
+ALIGN 4
+FHeroWalk:
+#incbin "Dmp/FHero Walk.dmp"
 
+ALIGN 4
+HalberdierStand:
+#incbin "Dmp/Halberdier Stand.dmp"
 
+ALIGN 4
+HalberdierWalk:
+#incbin "Dmp/Halberdier Walk.dmp"
 
+ALIGN 4
+SkirmisherStand:
+#incbin "Dmp/Skirmisher Stand.dmp"
 
+ALIGN 4
+SkirmisherWalk:
+#incbin "Dmp/Skirmisher Walk.dmp"
 
+ALIGN 4
+SniperStand:
+#incbin "Dmp/Sniper Stand.dmp"
 
+ALIGN 4
+SniperWalk:
+#incbin "Dmp/Sniper Walk.dmp"
 
+ALIGN 4
+FSniperStand:
+#incbin "Dmp/FSniper Stand.dmp"
 
+ALIGN 4
+FSniperWalk:
+#incbin "Dmp/FSniper Walk.dmp"
 
+ALIGN 4
+WarriorStand:
+#incbin "Dmp/Warrior Stand.dmp"
+
+ALIGN 4
+WarriorWalk:
+#incbin "Dmp/Warrior Walk.dmp"
+
+ALIGN 4
+FWarriorStand:
+#incbin "Dmp/FWarrior Stand.dmp"
+
+ALIGN 4
+FWarriorWalk:
+#incbin "Dmp/FWarrior Walk.dmp"
+
+ALIGN 4
+CorsairStand:
+#incbin "Dmp/Corsair Stand.dmp"
+
+ALIGN 4
+CorsairWalk:
+#incbin "Dmp/Corsair Walk.dmp"
 
 
 
